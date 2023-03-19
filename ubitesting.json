@@ -1,0 +1,33 @@
+{
+	"profiles": [
+		{
+			"profileId": "ef841d8d-7103-43d3-a4d1-c649a694f550",
+			"userId": "a75732c5-f002-4e56-9646-30878e0e5429",
+			"platformType": "psn",
+			"idOnPlatform": "7207291646040183145",
+			"nameOnPlatform": "Asamo-Ottler02"
+		}
+	]
+}
+{
+	"profiles": [
+		{
+			"profileId": "bdce2548-1721-42b6-aded-2872d7d7c287",
+			"userId": "bdce2548-1721-42b6-aded-2872d7d7c287",
+			"platformType": "uplay",
+			"idOnPlatform": "bdce2548-1721-42b6-aded-2872d7d7c287",
+			"nameOnPlatform": "vincent_van_goy"
+		}
+	]
+}
+{
+	"profiles": [
+		{
+			"profileId": "c8bdc57f-ec8f-4122-bf2a-7bcfe7d1dc1b",
+			"userId": "c8bdc57f-ec8f-4122-bf2a-7bcfe7d1dc1b",
+			"platformType": "uplay",
+			"idOnPlatform": "c8bdc57f-ec8f-4122-bf2a-7bcfe7d1dc1b",
+			"nameOnPlatform": "TheDamageisReal"
+		}
+	]
+}
