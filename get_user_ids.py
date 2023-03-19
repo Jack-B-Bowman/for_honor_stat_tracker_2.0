@@ -32,8 +32,11 @@ for user_string in users_to_download:
     platform = player[1]
     get_data = get_user_request(username,platform,auth_string)
     get_response = s.get(url=get_data.url, data=get_data.data, headers=get_data.headers, params=get_data.params)
+    time.sleep(1)
     if get_response.status_code != 200:
-        print("break")
+        print(f"get_response.status_code : {get_response.status_code}")
+        print(get_response.json())
+        input()
     else:
         player_ids[user_string] = get_response.json()
     count +=1
