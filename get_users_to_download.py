@@ -2,7 +2,7 @@ import json
 
 def get_users_to_download(all_users_path = r"C:\Users\Jack Bowman\Documents\Programs\PytScripts\UserScraper\usersTesting03-15-1.txt",
                           failed_users_path = r"C:\Users\Jack Bowman\Documents\Programs\PytScripts\UserScraper\failedUsers.csv",
-                          current_users_path = r"C:\Users\Jack Bowman\Documents\Programs\PytScripts\UbiScraper\player_ids.json"):
+                          current_users_path = r"C:\Users\Jack Bowman\Documents\Programs\PytScripts\UbiScraper\for_honor_stat_tracker_2.0\player_ids.json"):
     all_users_file_path = all_users_path
     failed_users_file_path = failed_users_path
     current_users_file_path = current_users_path
