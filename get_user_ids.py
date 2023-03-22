@@ -3,7 +3,7 @@ import json
 import time
 from login_request import post_request
 from get_user_request import get_user_request
-from get_users_to_download import get_users_to_download
+from get_users_to_download_copy import get_users_to_download
 
 
 file = open("LoginInfo.json","r")
@@ -20,9 +20,6 @@ auth_strings = []
 login_data = post_request(keys[0])
 post_response = s.post(url=login_data.url,data=login_data.payload,headers=login_data.headers).json()
 auth_strings.append(post_response["ticket"])
-
-
-
 
 # search up a user
 def get_user(session, get_data):
@@ -72,7 +69,7 @@ for user_string in users_to_download:
     if get_response.status_code != 200:
         print(f"get_response.status_code : {get_response.status_code}")
         print(get_response.json())
-        input()
+        time.sleep(1600)
     else:
         player_ids[user_string] = get_response.json()
     count +=1
@@ -81,6 +78,7 @@ for user_string in users_to_download:
 
         swap_count += 1
         login_data = post_request(keys[swap_count % len(keys)])
+        auth_string = relog(s,login_data)
         print(keys[swap_count % len(keys)])
         file = open(rf".\player_id_files\player_id_{count}.json","w")
         json.dump(player_ids,file,indent=4)
@@ -93,5 +91,3 @@ file = open(rf".\player_id_files\player_id_{count}.json","w")
 json.dump(player_ids,file,indent=4)
 file.close()
 player_ids = {}
-
-

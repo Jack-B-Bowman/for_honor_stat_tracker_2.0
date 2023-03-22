@@ -118830,5 +118830,3548 @@
                 "nameOnPlatform": "Frontstuermer"
             }
         ]
+    },
+    "toFIGHTistoPRAY:uplay": {
+        "profileId": "ca920800-658d-491d-a9f1-79cd9a7e45c7",
+        "userId": "ca920800-658d-491d-a9f1-79cd9a7e45c7",
+        "platformType": "uplay",
+        "idOnPlatform": "ca920800-658d-491d-a9f1-79cd9a7e45c7",
+        "nameOnPlatform": "toFIGHTistoPRAY"
+    },
+    "Pedrox..:uplay": {
+        "profileId": "c66fe000-13fd-402f-a401-8118dba1901b",
+        "userId": "c66fe000-13fd-402f-a401-8118dba1901b",
+        "platformType": "uplay",
+        "idOnPlatform": "C66FE000-13FD-402F-A401-8118DBA1901B",
+        "nameOnPlatform": "Pedrox.."
+    },
+    "HiddMusa01:uplay": {
+        "profileId": "6aca0802-f366-4392-a79d-9566e422f341",
+        "userId": "6aca0802-f366-4392-a79d-9566e422f341",
+        "platformType": "uplay",
+        "idOnPlatform": "6ACA0802-F366-4392-A79D-9566E422F341",
+        "nameOnPlatform": "HiddMusa01"
+    },
+    "weiaiman:uplay": {
+        "profileId": "8d2e840a-1e10-4422-92ab-516c01ff4e12",
+        "userId": "8d2e840a-1e10-4422-92ab-516c01ff4e12",
+        "platformType": "uplay",
+        "idOnPlatform": "8d2e840a-1e10-4422-92ab-516c01ff4e12",
+        "nameOnPlatform": "weiaiman"
+    },
+    "Damocles..:uplay": {
+        "profileId": "2fc61a1c-f371-4420-af0d-b47d35b6beab",
+        "userId": "2fc61a1c-f371-4420-af0d-b47d35b6beab",
+        "platformType": "uplay",
+        "idOnPlatform": "2FC61A1C-F371-4420-AF0D-B47D35B6BEAB",
+        "nameOnPlatform": "Damocles.."
+    },
+    "Alpha-79:uplay": {
+        "profileId": "cdabd320-ac4e-49bc-955a-3fbb697d7827",
+        "userId": "cdabd320-ac4e-49bc-955a-3fbb697d7827",
+        "platformType": "uplay",
+        "idOnPlatform": "CDABD320-AC4E-49BC-955A-3FBB697D7827",
+        "nameOnPlatform": "Alpha-79"
+    },
+    "Arutyun:uplay": {
+        "profileId": "9739e423-e567-4df3-808c-d926c5383a2d",
+        "userId": "9739e423-e567-4df3-808c-d926c5383a2d",
+        "platformType": "uplay",
+        "idOnPlatform": "9739E423-E567-4DF3-808C-D926C5383A2D",
+        "nameOnPlatform": "Arutyun"
+    },
+    "Hito-Kiwi:uplay": {
+        "profileId": "c6646225-d6a4-4dda-887c-99a2332db249",
+        "userId": "c6646225-d6a4-4dda-887c-99a2332db249",
+        "platformType": "uplay",
+        "idOnPlatform": "c6646225-d6a4-4dda-887c-99a2332db249",
+        "nameOnPlatform": "Hito-Kiwi"
+    },
+    "Pose1doN.SPAM:uplay": {
+        "profileId": "4f796925-5002-487f-bcd2-8228a3e11d9e",
+        "userId": "4f796925-5002-487f-bcd2-8228a3e11d9e",
+        "platformType": "uplay",
+        "idOnPlatform": "4f796925-5002-487f-bcd2-8228a3e11d9e",
+        "nameOnPlatform": "Pose1doN.SPAM"
+    },
+    "ArtiDee:uplay": {
+        "profileId": "67bae925-9672-4808-a059-556e870d5aed",
+        "userId": "67bae925-9672-4808-a059-556e870d5aed",
+        "platformType": "uplay",
+        "idOnPlatform": "67BAE925-9672-4808-A059-556E870D5AED",
+        "nameOnPlatform": "ArtiDee"
+    },
+    "Calyp_:uplay": {
+        "profileId": "f5332a28-6416-4381-b25f-46bfe5afc2c9",
+        "userId": "f5332a28-6416-4381-b25f-46bfe5afc2c9",
+        "platformType": "uplay",
+        "idOnPlatform": "f5332a28-6416-4381-b25f-46bfe5afc2c9",
+        "nameOnPlatform": "Calyp_"
+    },
+    "nartlight7.SL:uplay": {
+        "profileId": "8162732b-72f8-4806-9dbd-6152372013f8",
+        "userId": "8162732b-72f8-4806-9dbd-6152372013f8",
+        "platformType": "uplay",
+        "idOnPlatform": "8162732b-72f8-4806-9dbd-6152372013f8",
+        "nameOnPlatform": "nartlight7.SL"
+    },
+    "GrenadesWelcome:uplay": {
+        "profileId": "a7a85f2c-345a-4a8d-9d61-cbfc8cfaa976",
+        "userId": "a7a85f2c-345a-4a8d-9d61-cbfc8cfaa976",
+        "platformType": "uplay",
+        "idOnPlatform": "A7A85F2C-345A-4A8D-9D61-CBFC8CFAA976",
+        "nameOnPlatform": "GrenadesWelcome"
+    },
+    "i_parried_that:uplay": {
+        "profileId": "8d2a0833-e992-4583-943f-aa12e6a5547b",
+        "userId": "8d2a0833-e992-4583-943f-aa12e6a5547b",
+        "platformType": "uplay",
+        "idOnPlatform": "8D2A0833-E992-4583-943F-AA12E6A5547B",
+        "nameOnPlatform": "i_parried_that"
+    },
+    "Verder_Nafanya:uplay": {
+        "profileId": "0eec6033-012b-48c2-964d-0fd80cbfcc6d",
+        "userId": "0eec6033-012b-48c2-964d-0fd80cbfcc6d",
+        "platformType": "uplay",
+        "idOnPlatform": "0EEC6033-012B-48C2-964D-0FD80CBFCC6D",
+        "nameOnPlatform": "Verder_Nafanya"
+    },
+    "Kimo-_-:uplay": {
+        "profileId": "4d8dc834-b1cc-4b9e-a2a7-4585b739768a",
+        "userId": "4d8dc834-b1cc-4b9e-a2a7-4585b739768a",
+        "platformType": "uplay",
+        "idOnPlatform": "4d8dc834-b1cc-4b9e-a2a7-4585b739768a",
+        "nameOnPlatform": "Kimo-_-"
+    },
+    "Whispyyyy:uplay": {
+        "profileId": "8505cd44-77d7-4e02-bfd9-d12b3cb72890",
+        "userId": "8505cd44-77d7-4e02-bfd9-d12b3cb72890",
+        "platformType": "uplay",
+        "idOnPlatform": "8505cd44-77d7-4e02-bfd9-d12b3cb72890",
+        "nameOnPlatform": "Whispyyyy"
+    },
+    "stronghold63:uplay": {
+        "profileId": "3b2ea454-8ab4-427f-9498-397ca9c04793",
+        "userId": "3b2ea454-8ab4-427f-9498-397ca9c04793",
+        "platformType": "uplay",
+        "idOnPlatform": "3B2EA454-8AB4-427F-9498-397CA9C04793",
+        "nameOnPlatform": "stronghold63"
+    },
+    "MarShaLzzz:uplay": {
+        "profileId": "e676e659-e707-461a-b389-b04530b31f45",
+        "userId": "e676e659-e707-461a-b389-b04530b31f45",
+        "platformType": "uplay",
+        "idOnPlatform": "E676E659-E707-461A-B389-B04530B31F45",
+        "nameOnPlatform": "MarShaLzzz"
+    },
+    "Aberr4nt:uplay": {
+        "profileId": "033aa15b-4bd0-460e-97c0-07d54d5b2062",
+        "userId": "033aa15b-4bd0-460e-97c0-07d54d5b2062",
+        "platformType": "uplay",
+        "idOnPlatform": "033AA15B-4BD0-460E-97C0-07D54D5B2062",
+        "nameOnPlatform": "Aberr4nt"
+    },
+    "Loki_Crows:uplay": {
+        "profileId": "6a60f85c-caee-4db6-ac16-c39703f5a6c6",
+        "userId": "6a60f85c-caee-4db6-ac16-c39703f5a6c6",
+        "platformType": "uplay",
+        "idOnPlatform": "6a60f85c-caee-4db6-ac16-c39703f5a6c6",
+        "nameOnPlatform": "Loki_Crows"
+    },
+    "Sharp_Five:uplay": {
+        "profileId": "889df362-06d6-474a-9024-7d0002c1c9e7",
+        "userId": "889df362-06d6-474a-9024-7d0002c1c9e7",
+        "platformType": "uplay",
+        "idOnPlatform": "889DF362-06D6-474A-9024-7D0002C1C9E7",
+        "nameOnPlatform": "Sharp_Five"
+    },
+    "FredyKrugerCZ:uplay": {
+        "profileId": "f60e2f73-bcee-4336-96e6-1a43a248c636",
+        "userId": "f60e2f73-bcee-4336-96e6-1a43a248c636",
+        "platformType": "uplay",
+        "idOnPlatform": "f60e2f73-bcee-4336-96e6-1a43a248c636",
+        "nameOnPlatform": "FredyKrugerCZ"
+    },
+    "Zanthok1989:uplay": {
+        "profileId": "656dde74-c553-42d6-968a-da2f39808530",
+        "userId": "656dde74-c553-42d6-968a-da2f39808530",
+        "platformType": "uplay",
+        "idOnPlatform": "656dde74-c553-42d6-968a-da2f39808530",
+        "nameOnPlatform": "Zanthok1989"
+    },
+    "ienchik:uplay": {
+        "profileId": "a085027e-e017-461f-8944-423bfd405ad8",
+        "userId": "a085027e-e017-461f-8944-423bfd405ad8",
+        "platformType": "uplay",
+        "idOnPlatform": "A085027E-E017-461F-8944-423BFD405AD8",
+        "nameOnPlatform": "ienchik"
+    },
+    "FireAndBlood.:uplay": {
+        "profileId": "2c7f0682-ca14-4376-a527-1ebf8992e4e9",
+        "userId": "2c7f0682-ca14-4376-a527-1ebf8992e4e9",
+        "platformType": "uplay",
+        "idOnPlatform": "2C7F0682-CA14-4376-A527-1EBF8992E4E9",
+        "nameOnPlatform": "FireAndBlood."
+    },
+    "Blunt_Machete69:uplay": {
+        "profileId": "7881818f-3171-49cc-9a94-ba70259cbe1e",
+        "userId": "7881818f-3171-49cc-9a94-ba70259cbe1e",
+        "platformType": "uplay",
+        "idOnPlatform": "7881818f-3171-49cc-9a94-ba70259cbe1e",
+        "nameOnPlatform": "Blunt_Machete69"
+    },
+    "JamPants-:uplay": {
+        "profileId": "aba8a698-e58e-4804-8596-2dcdaa69c2ed",
+        "userId": "aba8a698-e58e-4804-8596-2dcdaa69c2ed",
+        "platformType": "uplay",
+        "idOnPlatform": "ABA8A698-E58E-4804-8596-2DCDAA69C2ED",
+        "nameOnPlatform": "JamPants-"
+    },
+    "SimplyMajestic:uplay": {
+        "profileId": "8d3d029e-f828-4974-941d-c93fa11232ca",
+        "userId": "8d3d029e-f828-4974-941d-c93fa11232ca",
+        "platformType": "uplay",
+        "idOnPlatform": "8d3d029e-f828-4974-941d-c93fa11232ca",
+        "nameOnPlatform": "SimplyMajestic"
+    },
+    "sccsykascc:uplay": {
+        "profileId": "d1c642a4-1c2a-4c50-b782-0a9187f6aa32",
+        "userId": "d1c642a4-1c2a-4c50-b782-0a9187f6aa32",
+        "platformType": "uplay",
+        "idOnPlatform": "d1c642a4-1c2a-4c50-b782-0a9187f6aa32",
+        "nameOnPlatform": "sccsykascc"
+    },
+    "LordIlluminous:uplay": {
+        "profileId": "8f0c48a9-66cb-4cbb-a088-2a438d6ccc33",
+        "userId": "8f0c48a9-66cb-4cbb-a088-2a438d6ccc33",
+        "platformType": "uplay",
+        "idOnPlatform": "8F0C48A9-66CB-4CBB-A088-2A438D6CCC33",
+        "nameOnPlatform": "LordIlluminous"
+    },
+    "mariusmihai21:uplay": {
+        "profileId": "d7f9b6ae-2131-4045-aebe-6e58dd3ef6e8",
+        "userId": "d7f9b6ae-2131-4045-aebe-6e58dd3ef6e8",
+        "platformType": "uplay",
+        "idOnPlatform": "d7f9b6ae-2131-4045-aebe-6e58dd3ef6e8",
+        "nameOnPlatform": "mariusmihai21"
+    },
+    "Freshnick_:uplay": {
+        "profileId": "141d4bb8-363d-45c9-a595-f5bb3945536a",
+        "userId": "141d4bb8-363d-45c9-a595-f5bb3945536a",
+        "platformType": "uplay",
+        "idOnPlatform": "141D4BB8-363D-45C9-A595-F5BB3945536A",
+        "nameOnPlatform": "Freshnick_"
+    },
+    "Andy1070GO:uplay": {
+        "profileId": "ef2fa7b8-c81c-4b3f-919e-b4077c5b2e7e",
+        "userId": "ef2fa7b8-c81c-4b3f-919e-b4077c5b2e7e",
+        "platformType": "uplay",
+        "idOnPlatform": "ef2fa7b8-c81c-4b3f-919e-b4077c5b2e7e",
+        "nameOnPlatform": "Andy1070GO"
+    },
+    "Mad.Mario:uplay": {
+        "profileId": "557209bb-204c-4caa-8df5-c08a12742c13",
+        "userId": "557209bb-204c-4caa-8df5-c08a12742c13",
+        "platformType": "uplay",
+        "idOnPlatform": "557209BB-204C-4CAA-8DF5-C08A12742C13",
+        "nameOnPlatform": "Mad.Mario"
+    },
+    "PewPew-:uplay": {
+        "profileId": "b8d399bb-12fa-479c-9a47-39490a8ede76",
+        "userId": "b8d399bb-12fa-479c-9a47-39490a8ede76",
+        "platformType": "uplay",
+        "idOnPlatform": "B8D399BB-12FA-479C-9A47-39490A8EDE76",
+        "nameOnPlatform": "PewPew-"
+    },
+    "Kichyro:uplay": {
+        "profileId": "f3e5cabd-4c4d-4bfb-8734-a5bbd55eb4a2",
+        "userId": "f3e5cabd-4c4d-4bfb-8734-a5bbd55eb4a2",
+        "platformType": "uplay",
+        "idOnPlatform": "F3E5CABD-4C4D-4BFB-8734-A5BBD55EB4A2",
+        "nameOnPlatform": "Kichyro"
+    },
+    "Thomy.1:uplay": {
+        "profileId": "651538c7-2a22-4b60-8c61-4d2f1bc7ea95",
+        "userId": "651538c7-2a22-4b60-8c61-4d2f1bc7ea95",
+        "platformType": "uplay",
+        "idOnPlatform": "651538C7-2A22-4B60-8C61-4D2F1BC7EA95",
+        "nameOnPlatform": "Thomy.1"
+    },
+    "xTheBurgerMan:uplay": {
+        "profileId": "67965ccc-7424-46f1-bc9a-3177b9a76aab",
+        "userId": "67965ccc-7424-46f1-bc9a-3177b9a76aab",
+        "platformType": "uplay",
+        "idOnPlatform": "67965CCC-7424-46F1-BC9A-3177B9A76AAB",
+        "nameOnPlatform": "xTheBurgerMan"
+    },
+    "fenofekas:uplay": {
+        "profileId": "4aaffccc-aaca-4a0b-a4dc-431a53fb7779",
+        "userId": "4aaffccc-aaca-4a0b-a4dc-431a53fb7779",
+        "platformType": "uplay",
+        "idOnPlatform": "4AAFFCCC-AACA-4A0B-A4DC-431A53FB7779",
+        "nameOnPlatform": "fenofekas"
+    },
+    "AG.Dellhex:uplay": {
+        "profileId": "458628cd-fca4-4054-af63-165494813167",
+        "userId": "458628cd-fca4-4054-af63-165494813167",
+        "platformType": "uplay",
+        "idOnPlatform": "458628cd-fca4-4054-af63-165494813167",
+        "nameOnPlatform": "AG.Dellhex"
+    },
+    "PostNietzsche:uplay": {
+        "profileId": "a44411d9-f69d-41bd-a89e-44fca86a6aa9",
+        "userId": "a44411d9-f69d-41bd-a89e-44fca86a6aa9",
+        "platformType": "uplay",
+        "idOnPlatform": "A44411D9-F69D-41BD-A89E-44FCA86A6AA9",
+        "nameOnPlatform": "PostNietzsche"
+    },
+    "kagenorzz:uplay": {
+        "profileId": "eb38bbda-83c5-4340-8a99-9d72a81cd728",
+        "userId": "eb38bbda-83c5-4340-8a99-9d72a81cd728",
+        "platformType": "uplay",
+        "idOnPlatform": "eb38bbda-83c5-4340-8a99-9d72a81cd728",
+        "nameOnPlatform": "kagenorzz"
+    },
+    "Neizhan-Dono:uplay": {
+        "profileId": "b8a2b3e0-0aff-4dcf-8355-657c7544024a",
+        "userId": "b8a2b3e0-0aff-4dcf-8355-657c7544024a",
+        "platformType": "uplay",
+        "idOnPlatform": "b8a2b3e0-0aff-4dcf-8355-657c7544024a",
+        "nameOnPlatform": "Neizhan-Dono"
+    },
+    "Big_Deal08:uplay": {
+        "profileId": "64b03fe1-b518-456e-b097-c612835b16ff",
+        "userId": "64b03fe1-b518-456e-b097-c612835b16ff",
+        "platformType": "uplay",
+        "idOnPlatform": "64b03fe1-b518-456e-b097-c612835b16ff",
+        "nameOnPlatform": "Big_Deal08"
+    },
+    "HappyNita:uplay": {
+        "profileId": "e83874e9-e3e2-43fe-b778-f33a5af2973d",
+        "userId": "e83874e9-e3e2-43fe-b778-f33a5af2973d",
+        "platformType": "uplay",
+        "idOnPlatform": "e83874e9-e3e2-43fe-b778-f33a5af2973d",
+        "nameOnPlatform": "HappyNita"
+    },
+    "N0_Name_17:uplay": {
+        "profileId": "eda76eef-d3d1-4491-ade1-1a94efab1b4c",
+        "userId": "eda76eef-d3d1-4491-ade1-1a94efab1b4c",
+        "platformType": "uplay",
+        "idOnPlatform": "eda76eef-d3d1-4491-ade1-1a94efab1b4c",
+        "nameOnPlatform": "N0_Name_17"
+    },
+    "Druidicules:uplay": {
+        "profileId": "79185cfc-cb41-47a1-a317-4aaa1446ae0b",
+        "userId": "79185cfc-cb41-47a1-a317-4aaa1446ae0b",
+        "platformType": "uplay",
+        "idOnPlatform": "79185cfc-cb41-47a1-a317-4aaa1446ae0b",
+        "nameOnPlatform": "Druidicules"
+    },
+    "xXDmon666Xx:uplay": {
+        "profileId": "b431a602-e83a-45e4-8882-16903f1f0693",
+        "userId": "b431a602-e83a-45e4-8882-16903f1f0693",
+        "platformType": "uplay",
+        "idOnPlatform": "B431A602-E83A-45E4-8882-16903F1F0693",
+        "nameOnPlatform": "xXDmon666Xx"
+    },
+    "bfire2:uplay": {
+        "profileId": "d79e8103-4734-45f6-98bc-85bed539e64e",
+        "userId": "d79e8103-4734-45f6-98bc-85bed539e64e",
+        "platformType": "uplay",
+        "idOnPlatform": "D79E8103-4734-45F6-98BC-85BED539E64E",
+        "nameOnPlatform": "bfire2"
+    },
+    "Meitouruiya:uplay": {
+        "profileId": "b30ba307-cfb3-48ce-9c2a-b71ba894ade1",
+        "userId": "b30ba307-cfb3-48ce-9c2a-b71ba894ade1",
+        "platformType": "uplay",
+        "idOnPlatform": "b30ba307-cfb3-48ce-9c2a-b71ba894ade1",
+        "nameOnPlatform": "Meitouruiya"
+    },
+    "Option_Lag:uplay": {
+        "profileId": "7e2d2c08-266e-481d-90f8-62a56766e67b",
+        "userId": "7e2d2c08-266e-481d-90f8-62a56766e67b",
+        "platformType": "uplay",
+        "idOnPlatform": "7e2d2c08-266e-481d-90f8-62a56766e67b",
+        "nameOnPlatform": "Option_Lag"
+    },
+    "ZjeBurek:uplay": {
+        "profileId": "1011480d-b72a-43d8-8d83-254dff038b39",
+        "userId": "1011480d-b72a-43d8-8d83-254dff038b39",
+        "platformType": "uplay",
+        "idOnPlatform": "1011480D-B72A-43D8-8D83-254DFF038B39",
+        "nameOnPlatform": "ZjeBurek"
+    },
+    "ricepickle2000:uplay": {
+        "profileId": "8acb751a-6826-47f7-b6cd-f62049d030b3",
+        "userId": "8acb751a-6826-47f7-b6cd-f62049d030b3",
+        "platformType": "uplay",
+        "idOnPlatform": "8ACB751A-6826-47F7-B6CD-F62049D030B3",
+        "nameOnPlatform": "ricepickle2000"
+    },
+    "toseuteoe:uplay": {
+        "profileId": "ae8d9431-b351-460d-b581-aa853e96068e",
+        "userId": "ae8d9431-b351-460d-b581-aa853e96068e",
+        "platformType": "uplay",
+        "idOnPlatform": "AE8D9431-B351-460D-B581-AA853E96068E",
+        "nameOnPlatform": "toseuteoe"
+    },
+    "Jok_ez:uplay": {
+        "profileId": "aa806734-2132-44bd-afe0-6b5fc6eff095",
+        "userId": "aa806734-2132-44bd-afe0-6b5fc6eff095",
+        "platformType": "uplay",
+        "idOnPlatform": "aa806734-2132-44bd-afe0-6b5fc6eff095",
+        "nameOnPlatform": "Jok_ez"
+    },
+    "deno963:uplay": {
+        "profileId": "66ad5f40-0b93-48a7-9dba-3a1e24061a42",
+        "userId": "66ad5f40-0b93-48a7-9dba-3a1e24061a42",
+        "platformType": "uplay",
+        "idOnPlatform": "66AD5F40-0B93-48A7-9DBA-3A1E24061A42",
+        "nameOnPlatform": "deno963"
+    },
+    "Jap1910:uplay": {
+        "profileId": "d7486544-4234-4958-bae6-5abd371adbb4",
+        "userId": "d7486544-4234-4958-bae6-5abd371adbb4",
+        "platformType": "uplay",
+        "idOnPlatform": "D7486544-4234-4958-BAE6-5ABD371ADBB4",
+        "nameOnPlatform": "Jap1910"
+    },
+    "ViableGolem4375:uplay": {
+        "profileId": "c1055348-f190-4475-9197-12ed588cb073",
+        "userId": "c1055348-f190-4475-9197-12ed588cb073",
+        "platformType": "uplay",
+        "idOnPlatform": "c1055348-f190-4475-9197-12ed588cb073",
+        "nameOnPlatform": "ViableGolem4375"
+    },
+    "Suiiiiiiii-:uplay": {
+        "profileId": "a94afe4f-b9d5-4ba3-8a7a-6b51f4cb625d",
+        "userId": "a94afe4f-b9d5-4ba3-8a7a-6b51f4cb625d",
+        "platformType": "uplay",
+        "idOnPlatform": "a94afe4f-b9d5-4ba3-8a7a-6b51f4cb625d",
+        "nameOnPlatform": "Suiiiiiiii-"
+    },
+    "AlpacaSURI:uplay": {
+        "profileId": "8eac0b52-3e80-4ffe-b076-eaf5de8415da",
+        "userId": "8eac0b52-3e80-4ffe-b076-eaf5de8415da",
+        "platformType": "uplay",
+        "idOnPlatform": "8EAC0B52-3E80-4FFE-B076-EAF5DE8415DA",
+        "nameOnPlatform": "AlpacaSURI"
+    },
+    "Twitch_Kushdy:uplay": {
+        "profileId": "5f90cc59-aa50-4495-ae1e-94b5e97b4541",
+        "userId": "5f90cc59-aa50-4495-ae1e-94b5e97b4541",
+        "platformType": "uplay",
+        "idOnPlatform": "5F90CC59-AA50-4495-AE1E-94B5E97B4541",
+        "nameOnPlatform": "Twitch_Kushdy"
+    },
+    "CultofSheep:uplay": {
+        "profileId": "6c85055a-f55b-4d1e-b3d3-de54817294d6",
+        "userId": "6c85055a-f55b-4d1e-b3d3-de54817294d6",
+        "platformType": "uplay",
+        "idOnPlatform": "6C85055A-F55B-4D1E-B3D3-DE54817294D6",
+        "nameOnPlatform": "CultofSheep"
+    },
+    "Yngwar.:uplay": {
+        "profileId": "ee308b5a-d3fe-465d-8e69-478c15b396b7",
+        "userId": "ee308b5a-d3fe-465d-8e69-478c15b396b7",
+        "platformType": "uplay",
+        "idOnPlatform": "EE308B5A-D3FE-465D-8E69-478C15B396B7",
+        "nameOnPlatform": "Yngwar."
+    },
+    "zukkko:uplay": {
+        "profileId": "5caf255e-ec19-421a-9685-edfa85347741",
+        "userId": "5caf255e-ec19-421a-9685-edfa85347741",
+        "platformType": "uplay",
+        "idOnPlatform": "5caf255e-ec19-421a-9685-edfa85347741",
+        "nameOnPlatform": "zukkko"
+    },
+    "Papi302:uplay": {
+        "profileId": "f3eb0669-24f3-4949-a557-a8054175028b",
+        "userId": "f3eb0669-24f3-4949-a557-a8054175028b",
+        "platformType": "uplay",
+        "idOnPlatform": "F3EB0669-24F3-4949-A557-A8054175028B",
+        "nameOnPlatform": "Papi302"
+    },
+    "fubamx:uplay": {
+        "profileId": "aea7cc6f-b632-4e35-aabf-09770fd9ee19",
+        "userId": "aea7cc6f-b632-4e35-aabf-09770fd9ee19",
+        "platformType": "uplay",
+        "idOnPlatform": "AEA7CC6F-B632-4E35-AABF-09770FD9EE19",
+        "nameOnPlatform": "fubamx"
+    },
+    "SK0RPIIAN:uplay": {
+        "profileId": "09e48d70-f893-4cae-8ca9-14a167910074",
+        "userId": "09e48d70-f893-4cae-8ca9-14a167910074",
+        "platformType": "uplay",
+        "idOnPlatform": "09E48D70-F893-4CAE-8CA9-14A167910074",
+        "nameOnPlatform": "SK0RPIIAN"
+    },
+    "Noctus.:uplay": {
+        "profileId": "8e203d7d-a008-4fc8-a028-12eac5047fda",
+        "userId": "8e203d7d-a008-4fc8-a028-12eac5047fda",
+        "platformType": "uplay",
+        "idOnPlatform": "8E203D7D-A008-4FC8-A028-12EAC5047FDA",
+        "nameOnPlatform": "Noctus."
+    },
+    "Pedmann:uplay": {
+        "profileId": "4e91807f-b965-406c-b302-acc026098677",
+        "userId": "4e91807f-b965-406c-b302-acc026098677",
+        "platformType": "uplay",
+        "idOnPlatform": "4E91807F-B965-406C-B302-ACC026098677",
+        "nameOnPlatform": "Pedmann"
+    },
+    "F3r3wulf:uplay": {
+        "profileId": "125a0e80-ae2f-4065-9020-5f9358a587a0",
+        "userId": "125a0e80-ae2f-4065-9020-5f9358a587a0",
+        "platformType": "uplay",
+        "idOnPlatform": "125A0E80-AE2F-4065-9020-5F9358A587A0",
+        "nameOnPlatform": "F3r3wulf"
+    },
+    "burntsandwich0:uplay": {
+        "profileId": "57c09c80-1912-4172-8585-979277f976bb",
+        "userId": "57c09c80-1912-4172-8585-979277f976bb",
+        "platformType": "uplay",
+        "idOnPlatform": "57c09c80-1912-4172-8585-979277f976bb",
+        "nameOnPlatform": "burntsandwich0"
+    },
+    "rain89cp:uplay": {
+        "profileId": "d0d64588-c335-44c8-b92c-232eeac8ae4a",
+        "userId": "d0d64588-c335-44c8-b92c-232eeac8ae4a",
+        "platformType": "uplay",
+        "idOnPlatform": "D0D64588-C335-44C8-B92C-232EEAC8AE4A",
+        "nameOnPlatform": "rain89cp"
+    },
+    "FineNightKnight:uplay": {
+        "profileId": "15436d88-6554-433d-86cf-d769eb635e35",
+        "userId": "15436d88-6554-433d-86cf-d769eb635e35",
+        "platformType": "uplay",
+        "idOnPlatform": "15436D88-6554-433D-86CF-D769EB635E35",
+        "nameOnPlatform": "FineNightKnight"
+    },
+    "Bigggs_:uplay": {
+        "profileId": "1c28f38f-d160-4e70-b0be-b4c1bf3c6cb8",
+        "userId": "1c28f38f-d160-4e70-b0be-b4c1bf3c6cb8",
+        "platformType": "uplay",
+        "idOnPlatform": "1c28f38f-d160-4e70-b0be-b4c1bf3c6cb8",
+        "nameOnPlatform": "Bigggs_"
+    },
+    "botamoti212:uplay": {
+        "profileId": "d6dc9d9b-8739-47a7-a83d-ad65dd6d9cae",
+        "userId": "d6dc9d9b-8739-47a7-a83d-ad65dd6d9cae",
+        "platformType": "uplay",
+        "idOnPlatform": "d6dc9d9b-8739-47a7-a83d-ad65dd6d9cae",
+        "nameOnPlatform": "botamoti212"
+    },
+    "Pupa-not_Lupa:uplay": {
+        "profileId": "66358a9f-13d7-4582-8eea-0ecff981cc6b",
+        "userId": "66358a9f-13d7-4582-8eea-0ecff981cc6b",
+        "platformType": "uplay",
+        "idOnPlatform": "66358a9f-13d7-4582-8eea-0ecff981cc6b",
+        "nameOnPlatform": "Pupa-not_Lupa"
+    },
+    "Ferixo_:uplay": {
+        "profileId": "a63866a2-50f7-47f8-8f3d-1821a9458f90",
+        "userId": "a63866a2-50f7-47f8-8f3d-1821a9458f90",
+        "platformType": "uplay",
+        "idOnPlatform": "A63866A2-50F7-47F8-8F3D-1821A9458F90",
+        "nameOnPlatform": "Ferixo_"
+    },
+    "OriginalCupcake:uplay": {
+        "profileId": "eac652ac-735a-4087-8031-f55a7d9df723",
+        "userId": "eac652ac-735a-4087-8031-f55a7d9df723",
+        "platformType": "uplay",
+        "idOnPlatform": "EAC652AC-735A-4087-8031-F55A7D9DF723",
+        "nameOnPlatform": "OriginalCupcake"
+    },
+    "Valk_Husted:uplay": {
+        "profileId": "a6fa26b6-3a30-42e0-a604-870fcf1e5486",
+        "userId": "a6fa26b6-3a30-42e0-a604-870fcf1e5486",
+        "platformType": "uplay",
+        "idOnPlatform": "a6fa26b6-3a30-42e0-a604-870fcf1e5486",
+        "nameOnPlatform": "Valk_Husted"
+    },
+    "Jauhnethin-:uplay": {
+        "profileId": "a51983b8-4e0d-439b-8e3d-cfd497b69cca",
+        "userId": "a51983b8-4e0d-439b-8e3d-cfd497b69cca",
+        "platformType": "uplay",
+        "idOnPlatform": "A51983B8-4E0D-439B-8E3D-CFD497B69CCA",
+        "nameOnPlatform": "Jauhnethin-"
+    },
+    "NES_Dargunium:uplay": {
+        "profileId": "92005ebd-1458-43d1-b12f-52fafc07fc54",
+        "userId": "92005ebd-1458-43d1-b12f-52fafc07fc54",
+        "platformType": "uplay",
+        "idOnPlatform": "92005EBD-1458-43D1-B12F-52FAFC07FC54",
+        "nameOnPlatform": "NES_Dargunium"
+    },
+    "LemmeSmashley:uplay": {
+        "profileId": "bf0df7c0-9135-4c2a-81b0-0d3f075c2b71",
+        "userId": "bf0df7c0-9135-4c2a-81b0-0d3f075c2b71",
+        "platformType": "uplay",
+        "idOnPlatform": "BF0DF7C0-9135-4C2A-81B0-0D3F075C2B71",
+        "nameOnPlatform": "LemmeSmashley"
+    },
+    "iISsellout:uplay": {
+        "profileId": "ef13e7c6-83ea-4561-9817-86aff4b74d4b",
+        "userId": "ef13e7c6-83ea-4561-9817-86aff4b74d4b",
+        "platformType": "uplay",
+        "idOnPlatform": "ef13e7c6-83ea-4561-9817-86aff4b74d4b",
+        "nameOnPlatform": "iISsellout"
+    },
+    "dead_anuta:uplay": {
+        "profileId": "20e414cc-1004-4968-a2f8-a68f80c31906",
+        "userId": "20e414cc-1004-4968-a2f8-a68f80c31906",
+        "platformType": "uplay",
+        "idOnPlatform": "20e414cc-1004-4968-a2f8-a68f80c31906",
+        "nameOnPlatform": "dead_anuta"
+    },
+    "For_Lagertha:uplay": {
+        "profileId": "fe456bcc-28a3-4143-a6ec-d6b456b69762",
+        "userId": "fe456bcc-28a3-4143-a6ec-d6b456b69762",
+        "platformType": "uplay",
+        "idOnPlatform": "FE456BCC-28A3-4143-A6EC-D6B456B69762",
+        "nameOnPlatform": "For_Lagertha"
+    },
+    "JhinN.:uplay": {
+        "profileId": "767018ce-dac2-496c-8692-6965549f73f2",
+        "userId": "767018ce-dac2-496c-8692-6965549f73f2",
+        "platformType": "uplay",
+        "idOnPlatform": "767018CE-DAC2-496C-8692-6965549F73F2",
+        "nameOnPlatform": "JhinN."
+    },
+    "Castellano_:uplay": {
+        "profileId": "222b44d5-208c-4c0e-93d0-a5ea79c89960",
+        "userId": "222b44d5-208c-4c0e-93d0-a5ea79c89960",
+        "platformType": "uplay",
+        "idOnPlatform": "222b44d5-208c-4c0e-93d0-a5ea79c89960",
+        "nameOnPlatform": "Castellano_"
+    },
+    "Rootbear.Float:uplay": {
+        "profileId": "e3e481d9-3935-46b1-b886-91b28c5dadbb",
+        "userId": "e3e481d9-3935-46b1-b886-91b28c5dadbb",
+        "platformType": "uplay",
+        "idOnPlatform": "e3e481d9-3935-46b1-b886-91b28c5dadbb",
+        "nameOnPlatform": "Rootbear.Float"
+    },
+    "Lewd_Imouto:uplay": {
+        "profileId": "243e30dd-1846-48c2-8b04-20951ce658b7",
+        "userId": "243e30dd-1846-48c2-8b04-20951ce658b7",
+        "platformType": "uplay",
+        "idOnPlatform": "243E30DD-1846-48C2-8B04-20951CE658B7",
+        "nameOnPlatform": "Lewd_Imouto"
+    },
+    "Baballuuuu:uplay": {
+        "profileId": "e7572ade-1442-4b65-be57-1055e2c054c4",
+        "userId": "e7572ade-1442-4b65-be57-1055e2c054c4",
+        "platformType": "uplay",
+        "idOnPlatform": "E7572ADE-1442-4B65-BE57-1055E2C054C4",
+        "nameOnPlatform": "Baballuuuu"
+    },
+    "ScionofAram:uplay": {
+        "profileId": "aca49adf-629b-441d-b435-9cd2e4c9da7c",
+        "userId": "aca49adf-629b-441d-b435-9cd2e4c9da7c",
+        "platformType": "uplay",
+        "idOnPlatform": "ACA49ADF-629B-441D-B435-9CD2E4C9DA7C",
+        "nameOnPlatform": "ScionofAram"
+    },
+    "KyzrWoIf:uplay": {
+        "profileId": "7eab9ae5-0e26-4dd7-a1db-b7613734bbef",
+        "userId": "7eab9ae5-0e26-4dd7-a1db-b7613734bbef",
+        "platformType": "uplay",
+        "idOnPlatform": "7EAB9AE5-0E26-4DD7-A1DB-B7613734BBEF",
+        "nameOnPlatform": "KyzrWoIf"
+    },
+    "VeselyProctolog:uplay": {
+        "profileId": "089e35ea-6221-4115-9d7e-ef6a9b2e9848",
+        "userId": "089e35ea-6221-4115-9d7e-ef6a9b2e9848",
+        "platformType": "uplay",
+        "idOnPlatform": "089E35EA-6221-4115-9D7E-EF6A9B2E9848",
+        "nameOnPlatform": "VeselyProctolog"
+    },
+    "dr_.dave:uplay": {
+        "profileId": "207149f4-1f60-4e7d-b0ba-7783010f06e3",
+        "userId": "207149f4-1f60-4e7d-b0ba-7783010f06e3",
+        "platformType": "uplay",
+        "idOnPlatform": "207149F4-1F60-4E7D-B0BA-7783010F06E3",
+        "nameOnPlatform": "dr_.dave"
+    },
+    "Yamato.-:uplay": {
+        "profileId": "0c3158f8-531f-4612-9a57-1a2c4fb52e72",
+        "userId": "0c3158f8-531f-4612-9a57-1a2c4fb52e72",
+        "platformType": "uplay",
+        "idOnPlatform": "0C3158F8-531F-4612-9A57-1A2C4FB52E72",
+        "nameOnPlatform": "Yamato.-"
+    },
+    "SchmuseMaus69:uplay": {
+        "profileId": "7f74e1f9-a5c2-40ba-9f34-afab6aa0bcda",
+        "userId": "7f74e1f9-a5c2-40ba-9f34-afab6aa0bcda",
+        "platformType": "uplay",
+        "idOnPlatform": "7f74e1f9-a5c2-40ba-9f34-afab6aa0bcda",
+        "nameOnPlatform": "SchmuseMaus69"
+    },
+    "kab99:uplay": {
+        "profileId": "994e9308-1deb-414f-b034-41c4971357d1",
+        "userId": "994e9308-1deb-414f-b034-41c4971357d1",
+        "platformType": "uplay",
+        "idOnPlatform": "994E9308-1DEB-414F-B034-41C4971357D1",
+        "nameOnPlatform": "kab99"
+    },
+    "Psychomancer:uplay": {
+        "profileId": "212d5a12-9f56-40ee-923b-572c430b9bf8",
+        "userId": "212d5a12-9f56-40ee-923b-572c430b9bf8",
+        "platformType": "uplay",
+        "idOnPlatform": "212D5A12-9F56-40EE-923B-572C430B9BF8",
+        "nameOnPlatform": "Psychomancer"
+    },
+    "Gammcon:uplay": {
+        "profileId": "0ce6c215-86d8-41bf-b99f-4f3a6833c492",
+        "userId": "0ce6c215-86d8-41bf-b99f-4f3a6833c492",
+        "platformType": "uplay",
+        "idOnPlatform": "0ce6c215-86d8-41bf-b99f-4f3a6833c492",
+        "nameOnPlatform": "Gammcon"
+    },
+    "BOBOBO-:uplay": {
+        "profileId": "cdd1241a-0d32-4174-af6c-0113784a4e79",
+        "userId": "cdd1241a-0d32-4174-af6c-0113784a4e79",
+        "platformType": "uplay",
+        "idOnPlatform": "CDD1241A-0D32-4174-AF6C-0113784A4E79",
+        "nameOnPlatform": "BOBOBO-"
+    },
+    "buldyga:uplay": {
+        "profileId": "2a16ac1f-8c3e-4b98-b5dc-347fc3d24681",
+        "userId": "2a16ac1f-8c3e-4b98-b5dc-347fc3d24681",
+        "platformType": "uplay",
+        "idOnPlatform": "2a16ac1f-8c3e-4b98-b5dc-347fc3d24681",
+        "nameOnPlatform": "buldyga"
+    },
+    "xSteeldrgx:uplay": {
+        "profileId": "09fd0522-51de-4860-89d5-d161dc12dce0",
+        "userId": "09fd0522-51de-4860-89d5-d161dc12dce0",
+        "platformType": "uplay",
+        "idOnPlatform": "09FD0522-51DE-4860-89D5-D161DC12DCE0",
+        "nameOnPlatform": "xSteeldrgx"
+    },
+    "Buddist_:uplay": {
+        "profileId": "b2d74f25-7090-4f94-9557-7ad63b064214",
+        "userId": "b2d74f25-7090-4f94-9557-7ad63b064214",
+        "platformType": "uplay",
+        "idOnPlatform": "b2d74f25-7090-4f94-9557-7ad63b064214",
+        "nameOnPlatform": "Buddist_"
+    },
+    "Gaillard_fr:uplay": {
+        "profileId": "28adbb28-fff7-4877-bc65-22d35cb471bb",
+        "userId": "28adbb28-fff7-4877-bc65-22d35cb471bb",
+        "platformType": "uplay",
+        "idOnPlatform": "28ADBB28-FFF7-4877-BC65-22D35CB471BB",
+        "nameOnPlatform": "Gaillard_fr"
+    },
+    "Reiatsuken:uplay": {
+        "profileId": "e6bf6334-b5f7-4cb2-9f09-dd2381d260d4",
+        "userId": "e6bf6334-b5f7-4cb2-9f09-dd2381d260d4",
+        "platformType": "uplay",
+        "idOnPlatform": "E6BF6334-B5F7-4CB2-9F09-DD2381D260D4",
+        "nameOnPlatform": "Reiatsuken"
+    },
+    "TheBaron0fBacon:uplay": {
+        "profileId": "6b3b4138-bfa3-4893-a1fb-a876c84168b0",
+        "userId": "6b3b4138-bfa3-4893-a1fb-a876c84168b0",
+        "platformType": "uplay",
+        "idOnPlatform": "6b3b4138-bfa3-4893-a1fb-a876c84168b0",
+        "nameOnPlatform": "TheBaron0fBacon"
+    },
+    "Shikabane-:uplay": {
+        "profileId": "9005d739-0129-4a55-82c9-1dfaf4c6746f",
+        "userId": "9005d739-0129-4a55-82c9-1dfaf4c6746f",
+        "platformType": "uplay",
+        "idOnPlatform": "9005D739-0129-4A55-82C9-1DFAF4C6746F",
+        "nameOnPlatform": "Shikabane-"
+    },
+    "Nooba__Kong:uplay": {
+        "profileId": "950a7b46-de1d-42c9-8cce-713f2114f5b7",
+        "userId": "950a7b46-de1d-42c9-8cce-713f2114f5b7",
+        "platformType": "uplay",
+        "idOnPlatform": "950A7B46-DE1D-42C9-8CCE-713F2114F5B7",
+        "nameOnPlatform": "Nooba__Kong"
+    },
+    "Vageniuz:uplay": {
+        "profileId": "63d6ae5a-620b-468a-b7a8-268d6b090e45",
+        "userId": "63d6ae5a-620b-468a-b7a8-268d6b090e45",
+        "platformType": "uplay",
+        "idOnPlatform": "63D6AE5A-620B-468A-B7A8-268D6B090E45",
+        "nameOnPlatform": "Vageniuz"
+    },
+    "Rickyy.-:uplay": {
+        "profileId": "44d3115c-2896-462f-90e9-c9c41ef4d1af",
+        "userId": "44d3115c-2896-462f-90e9-c9c41ef4d1af",
+        "platformType": "uplay",
+        "idOnPlatform": "44D3115C-2896-462F-90E9-C9C41EF4D1AF",
+        "nameOnPlatform": "Rickyy.-"
+    },
+    "Binlaggin-47:uplay": {
+        "profileId": "598e4d5c-5eea-49f6-a5a3-5bbec02e6810",
+        "userId": "598e4d5c-5eea-49f6-a5a3-5bbec02e6810",
+        "platformType": "uplay",
+        "idOnPlatform": "598E4D5C-5EEA-49F6-A5A3-5BBEC02E6810",
+        "nameOnPlatform": "Binlaggin-47"
+    },
+    "Dawns_End:uplay": {
+        "profileId": "b5953b67-d465-4100-aa77-2ef75f59cbe4",
+        "userId": "b5953b67-d465-4100-aa77-2ef75f59cbe4",
+        "platformType": "uplay",
+        "idOnPlatform": "B5953B67-D465-4100-AA77-2EF75F59CBE4",
+        "nameOnPlatform": "Dawns_End"
+    },
+    "blesslop:uplay": {
+        "profileId": "eb63aa6d-7e28-4ee5-981b-d32e7e8c5be8",
+        "userId": "eb63aa6d-7e28-4ee5-981b-d32e7e8c5be8",
+        "platformType": "uplay",
+        "idOnPlatform": "EB63AA6D-7E28-4EE5-981B-D32E7E8C5BE8",
+        "nameOnPlatform": "blesslop"
+    },
+    "Rightcome:uplay": {
+        "profileId": "04b00973-4bad-4a9f-9a5c-a99f3bfd681d",
+        "userId": "04b00973-4bad-4a9f-9a5c-a99f3bfd681d",
+        "platformType": "uplay",
+        "idOnPlatform": "04b00973-4bad-4a9f-9a5c-a99f3bfd681d",
+        "nameOnPlatform": "Rightcome"
+    },
+    "BOT-notbot:uplay": {
+        "profileId": "db82eb74-b413-45ca-a300-24879bcb0fbf",
+        "userId": "db82eb74-b413-45ca-a300-24879bcb0fbf",
+        "platformType": "uplay",
+        "idOnPlatform": "DB82EB74-B413-45CA-A300-24879BCB0FBF",
+        "nameOnPlatform": "BOT-notbot"
+    },
+    "UselessLifeForm:uplay": {
+        "profileId": "fea7767e-58ab-482a-aaa0-23ec8ea0cdcd",
+        "userId": "fea7767e-58ab-482a-aaa0-23ec8ea0cdcd",
+        "platformType": "uplay",
+        "idOnPlatform": "FEA7767E-58AB-482A-AAA0-23EC8EA0CDCD",
+        "nameOnPlatform": "UselessLifeForm"
+    },
+    "Sorry-lag:uplay": {
+        "profileId": "0bb31381-9fa8-4c92-b5cb-b218577a9cac",
+        "userId": "0bb31381-9fa8-4c92-b5cb-b218577a9cac",
+        "platformType": "uplay",
+        "idOnPlatform": "0BB31381-9FA8-4C92-B5CB-B218577A9CAC",
+        "nameOnPlatform": "Sorry-lag"
+    },
+    "MrLaz.:uplay": {
+        "profileId": "10271583-7987-42be-8a85-864ca1a46cb5",
+        "userId": "10271583-7987-42be-8a85-864ca1a46cb5",
+        "platformType": "uplay",
+        "idOnPlatform": "10271583-7987-42be-8a85-864ca1a46cb5",
+        "nameOnPlatform": "MrLaz."
+    },
+    "BIVIS2281488:uplay": {
+        "profileId": "f24adc85-ba46-454c-aab5-d130b91600cc",
+        "userId": "f24adc85-ba46-454c-aab5-d130b91600cc",
+        "platformType": "uplay",
+        "idOnPlatform": "F24ADC85-BA46-454C-AAB5-D130B91600CC",
+        "nameOnPlatform": "BIVIS2281488"
+    },
+    "MomsSpaghetti..:uplay": {
+        "profileId": "e2d22c8c-f482-4e1f-99a5-124d01dfea45",
+        "userId": "e2d22c8c-f482-4e1f-99a5-124d01dfea45",
+        "platformType": "uplay",
+        "idOnPlatform": "E2D22C8C-F482-4E1F-99A5-124D01DFEA45",
+        "nameOnPlatform": "MomsSpaghetti.."
+    },
+    "ArtymisTheKitty:uplay": {
+        "profileId": "48e59c8c-19dd-4c52-9340-62c2e6c09a53",
+        "userId": "48e59c8c-19dd-4c52-9340-62c2e6c09a53",
+        "platformType": "uplay",
+        "idOnPlatform": "48e59c8c-19dd-4c52-9340-62c2e6c09a53",
+        "nameOnPlatform": "ArtymisTheKitty"
+    },
+    "A.gent.L.vi:uplay": {
+        "profileId": "9b762891-25e8-4887-bbb7-58ed18c33c4e",
+        "userId": "9b762891-25e8-4887-bbb7-58ed18c33c4e",
+        "platformType": "uplay",
+        "idOnPlatform": "9b762891-25e8-4887-bbb7-58ed18c33c4e",
+        "nameOnPlatform": "A.gent.L.vi"
+    },
+    "Ephedrine...:uplay": {
+        "profileId": "a40bc7a1-0fc5-4f98-a982-af0cd4bad299",
+        "userId": "a40bc7a1-0fc5-4f98-a982-af0cd4bad299",
+        "platformType": "uplay",
+        "idOnPlatform": "a40bc7a1-0fc5-4f98-a982-af0cd4bad299",
+        "nameOnPlatform": "Ephedrine..."
+    },
+    "prodeje-:uplay": {
+        "profileId": "691683ae-618f-4c01-85b9-3dbf70866a1d",
+        "userId": "691683ae-618f-4c01-85b9-3dbf70866a1d",
+        "platformType": "uplay",
+        "idOnPlatform": "691683ae-618f-4c01-85b9-3dbf70866a1d",
+        "nameOnPlatform": "prodeje-"
+    },
+    "Caramel137:uplay": {
+        "profileId": "199faab3-125b-4ff8-82ad-c365b84d45cf",
+        "userId": "199faab3-125b-4ff8-82ad-c365b84d45cf",
+        "platformType": "uplay",
+        "idOnPlatform": "199faab3-125b-4ff8-82ad-c365b84d45cf",
+        "nameOnPlatform": "Caramel137"
+    },
+    "The-Supreme-One:uplay": {
+        "profileId": "db162bc5-c401-497b-a75b-135d790cb910",
+        "userId": "db162bc5-c401-497b-a75b-135d790cb910",
+        "platformType": "uplay",
+        "idOnPlatform": "DB162BC5-C401-497B-A75B-135D790CB910",
+        "nameOnPlatform": "The-Supreme-One"
+    },
+    "Maxilos333:uplay": {
+        "profileId": "812f8cc6-0604-435a-bc51-2872dd0d8364",
+        "userId": "812f8cc6-0604-435a-bc51-2872dd0d8364",
+        "platformType": "uplay",
+        "idOnPlatform": "812F8CC6-0604-435A-BC51-2872DD0D8364",
+        "nameOnPlatform": "Maxilos333"
+    },
+    "Mr_Enrage:uplay": {
+        "profileId": "0911b5ca-4775-416e-a5d5-b26e75d3aa70",
+        "userId": "0911b5ca-4775-416e-a5d5-b26e75d3aa70",
+        "platformType": "uplay",
+        "idOnPlatform": "0911B5CA-4775-416E-A5D5-B26E75D3AA70",
+        "nameOnPlatform": "Mr_Enrage"
+    },
+    "RagnaroKLegion:uplay": {
+        "profileId": "c910a2cb-0fe9-490e-a711-81936aaf7a1f",
+        "userId": "c910a2cb-0fe9-490e-a711-81936aaf7a1f",
+        "platformType": "uplay",
+        "idOnPlatform": "C910A2CB-0FE9-490E-A711-81936AAF7A1F",
+        "nameOnPlatform": "RagnaroKLegion"
+    },
+    "HallowSpirit:uplay": {
+        "profileId": "4b33efcb-db55-43cb-84fe-cb95eea4be92",
+        "userId": "4b33efcb-db55-43cb-84fe-cb95eea4be92",
+        "platformType": "uplay",
+        "idOnPlatform": "4b33efcb-db55-43cb-84fe-cb95eea4be92",
+        "nameOnPlatform": "HallowSpirit"
+    },
+    "CoffeeAddictus:uplay": {
+        "profileId": "f3e6f5cc-98a1-41ef-bf50-2f4545fe9a14",
+        "userId": "f3e6f5cc-98a1-41ef-bf50-2f4545fe9a14",
+        "platformType": "uplay",
+        "idOnPlatform": "F3E6F5CC-98A1-41EF-BF50-2F4545FE9A14",
+        "nameOnPlatform": "CoffeeAddictus"
+    },
+    "Fabreeze_tw:uplay": {
+        "profileId": "bbccc7d4-8761-4c24-a45e-1c0daa83f155",
+        "userId": "bbccc7d4-8761-4c24-a45e-1c0daa83f155",
+        "platformType": "uplay",
+        "idOnPlatform": "BBCCC7D4-8761-4C24-A45E-1C0DAA83F155",
+        "nameOnPlatform": "Fabreeze_tw"
+    },
+    "FantasticV0yage:uplay": {
+        "profileId": "3a4c38d7-a10e-45b5-9456-d6d212f8b59c",
+        "userId": "3a4c38d7-a10e-45b5-9456-d6d212f8b59c",
+        "platformType": "uplay",
+        "idOnPlatform": "3A4C38D7-A10E-45B5-9456-D6D212F8B59C",
+        "nameOnPlatform": "FantasticV0yage"
+    },
+    "NaeNaeNaomi:uplay": {
+        "profileId": "8e8de9d8-9cfe-45c5-82e9-1ebdf80432a2",
+        "userId": "8e8de9d8-9cfe-45c5-82e9-1ebdf80432a2",
+        "platformType": "uplay",
+        "idOnPlatform": "8E8DE9D8-9CFE-45C5-82E9-1EBDF80432A2",
+        "nameOnPlatform": "NaeNaeNaomi"
+    },
+    "Aznord.:uplay": {
+        "profileId": "b4bc00dd-50f2-4180-a025-8e9b69e6323f",
+        "userId": "b4bc00dd-50f2-4180-a025-8e9b69e6323f",
+        "platformType": "uplay",
+        "idOnPlatform": "B4BC00DD-50F2-4180-A025-8E9B69E6323F",
+        "nameOnPlatform": "Aznord."
+    },
+    "Akinojinro:uplay": {
+        "profileId": "b9c306de-703e-4d70-a436-9082118f6229",
+        "userId": "b9c306de-703e-4d70-a436-9082118f6229",
+        "platformType": "uplay",
+        "idOnPlatform": "B9C306DE-703E-4D70-A436-9082118F6229",
+        "nameOnPlatform": "Akinojinro"
+    },
+    "SpartanKane343:uplay": {
+        "profileId": "0bed60e0-f2fd-4181-be86-c196c0e115e5",
+        "userId": "0bed60e0-f2fd-4181-be86-c196c0e115e5",
+        "platformType": "uplay",
+        "idOnPlatform": "0BED60E0-F2FD-4181-BE86-C196C0E115E5",
+        "nameOnPlatform": "SpartanKane343"
+    },
+    "UnrealReznov_:uplay": {
+        "profileId": "8b9e0de9-3575-45c6-9db5-8cf3052f1e3b",
+        "userId": "8b9e0de9-3575-45c6-9db5-8cf3052f1e3b",
+        "platformType": "uplay",
+        "idOnPlatform": "8B9E0DE9-3575-45C6-9DB5-8CF3052F1E3B",
+        "nameOnPlatform": "UnrealReznov_"
+    },
+    "Jayem2000:uplay": {
+        "profileId": "4846c7ef-8f86-4475-936c-2aa4eefe9a9a",
+        "userId": "4846c7ef-8f86-4475-936c-2aa4eefe9a9a",
+        "platformType": "uplay",
+        "idOnPlatform": "4846C7EF-8F86-4475-936C-2AA4EEFE9A9A",
+        "nameOnPlatform": "Jayem2000"
+    },
+    "enormousppman:uplay": {
+        "profileId": "fb8b54f0-a64b-4e36-9a04-83c949cb6306",
+        "userId": "fb8b54f0-a64b-4e36-9a04-83c949cb6306",
+        "platformType": "uplay",
+        "idOnPlatform": "FB8B54F0-A64B-4E36-9A04-83C949CB6306",
+        "nameOnPlatform": "enormousppman"
+    },
+    "SandGuyMan:uplay": {
+        "profileId": "64c1f7f1-caed-4167-859d-9255ac77e81a",
+        "userId": "64c1f7f1-caed-4167-859d-9255ac77e81a",
+        "platformType": "uplay",
+        "idOnPlatform": "64C1F7F1-CAED-4167-859D-9255AC77E81A",
+        "nameOnPlatform": "SandGuyMan"
+    },
+    "Darkmoad_69:uplay": {
+        "profileId": "5ec3e3f2-9315-4c3c-ad62-aec47dffaaeb",
+        "userId": "5ec3e3f2-9315-4c3c-ad62-aec47dffaaeb",
+        "platformType": "uplay",
+        "idOnPlatform": "5ec3e3f2-9315-4c3c-ad62-aec47dffaaeb",
+        "nameOnPlatform": "Darkmoad_69"
+    },
+    "Helnir.:uplay": {
+        "profileId": "39ee44f5-49f3-4f03-9c2f-b8c206744e2a",
+        "userId": "39ee44f5-49f3-4f03-9c2f-b8c206744e2a",
+        "platformType": "uplay",
+        "idOnPlatform": "39EE44F5-49F3-4F03-9C2F-B8C206744E2A",
+        "nameOnPlatform": "Helnir."
+    },
+    "Myriad__:uplay": {
+        "profileId": "579602fc-0dd7-4423-8d76-fc6e5b4b602e",
+        "userId": "579602fc-0dd7-4423-8d76-fc6e5b4b602e",
+        "platformType": "uplay",
+        "idOnPlatform": "579602FC-0DD7-4423-8D76-FC6E5B4B602E",
+        "nameOnPlatform": "Myriad__"
+    },
+    "zusulade:uplay": {
+        "profileId": "276fd1ff-41a9-4f4e-9809-96b73a93d2b4",
+        "userId": "276fd1ff-41a9-4f4e-9809-96b73a93d2b4",
+        "platformType": "uplay",
+        "idOnPlatform": "276fd1ff-41a9-4f4e-9809-96b73a93d2b4",
+        "nameOnPlatform": "zusulade"
+    },
+    "IHavALotOfChins:uplay": {
+        "profileId": "26a32b05-82a9-4dda-ba1b-e9aed4418a7e",
+        "userId": "26a32b05-82a9-4dda-ba1b-e9aed4418a7e",
+        "platformType": "uplay",
+        "idOnPlatform": "26A32B05-82A9-4DDA-BA1B-E9AED4418A7E",
+        "nameOnPlatform": "IHavALotOfChins"
+    },
+    "Iron-and-Steel:uplay": {
+        "profileId": "7f7c2a0f-725f-4e75-a9ca-de93be41e5d7",
+        "userId": "7f7c2a0f-725f-4e75-a9ca-de93be41e5d7",
+        "platformType": "uplay",
+        "idOnPlatform": "7f7c2a0f-725f-4e75-a9ca-de93be41e5d7",
+        "nameOnPlatform": "Iron-and-Steel"
+    },
+    "SlimThuggin-:uplay": {
+        "profileId": "62461410-6390-4b60-844a-88a8dd487a2a",
+        "userId": "62461410-6390-4b60-844a-88a8dd487a2a",
+        "platformType": "uplay",
+        "idOnPlatform": "62461410-6390-4B60-844A-88A8DD487A2A",
+        "nameOnPlatform": "SlimThuggin-"
+    },
+    "x_YAMI_x:uplay": {
+        "profileId": "4317f715-ddfa-4ab3-860d-f3205d13f91a",
+        "userId": "4317f715-ddfa-4ab3-860d-f3205d13f91a",
+        "platformType": "uplay",
+        "idOnPlatform": "4317F715-DDFA-4AB3-860D-F3205D13F91A",
+        "nameOnPlatform": "x_YAMI_x"
+    },
+    "RubySkin:uplay": {
+        "profileId": "eb796f20-5d78-4701-9cff-672d200565db",
+        "userId": "eb796f20-5d78-4701-9cff-672d200565db",
+        "platformType": "uplay",
+        "idOnPlatform": "EB796F20-5D78-4701-9CFF-672D200565DB",
+        "nameOnPlatform": "RubySkin"
+    },
+    "Satoshinori:uplay": {
+        "profileId": "14659821-507c-4beb-ba44-4b854f9bc102",
+        "userId": "14659821-507c-4beb-ba44-4b854f9bc102",
+        "platformType": "uplay",
+        "idOnPlatform": "14659821-507c-4beb-ba44-4b854f9bc102",
+        "nameOnPlatform": "Satoshinori"
+    },
+    "Svipur.:uplay": {
+        "profileId": "a4bfdb22-d6c3-4309-990c-0928b30b8470",
+        "userId": "a4bfdb22-d6c3-4309-990c-0928b30b8470",
+        "platformType": "uplay",
+        "idOnPlatform": "A4BFDB22-D6C3-4309-990C-0928B30B8470",
+        "nameOnPlatform": "Svipur."
+    },
+    "DavidLiam:uplay": {
+        "profileId": "ebfa9027-8d2e-4f01-8636-f91dd81f8d50",
+        "userId": "ebfa9027-8d2e-4f01-8636-f91dd81f8d50",
+        "platformType": "uplay",
+        "idOnPlatform": "ebfa9027-8d2e-4f01-8636-f91dd81f8d50",
+        "nameOnPlatform": "DavidLiam"
+    },
+    "Acr017:uplay": {
+        "profileId": "64699f28-0298-4773-96f3-f7460a1c0f3c",
+        "userId": "64699f28-0298-4773-96f3-f7460a1c0f3c",
+        "platformType": "uplay",
+        "idOnPlatform": "64699F28-0298-4773-96F3-F7460A1C0F3C",
+        "nameOnPlatform": "Acr017"
+    },
+    "Mr_Sassquatch:uplay": {
+        "profileId": "af0fd028-c7f2-457a-aab2-f2fe6b12441a",
+        "userId": "af0fd028-c7f2-457a-aab2-f2fe6b12441a",
+        "platformType": "uplay",
+        "idOnPlatform": "AF0FD028-C7F2-457A-AAB2-F2FE6B12441A",
+        "nameOnPlatform": "Mr_Sassquatch"
+    },
+    "magoyuu:uplay": {
+        "profileId": "ee96fa31-d6a6-4192-8fc7-382df9a00f36",
+        "userId": "ee96fa31-d6a6-4192-8fc7-382df9a00f36",
+        "platformType": "uplay",
+        "idOnPlatform": "EE96FA31-D6A6-4192-8FC7-382DF9A00F36",
+        "nameOnPlatform": "magoyuu"
+    },
+    "Konter-:uplay": {
+        "profileId": "0f550d3b-e05e-48c9-b668-20e49424165c",
+        "userId": "0f550d3b-e05e-48c9-b668-20e49424165c",
+        "platformType": "uplay",
+        "idOnPlatform": "0F550D3B-E05E-48C9-B668-20E49424165C",
+        "nameOnPlatform": "Konter-"
+    },
+    "ShowMeGeez:uplay": {
+        "profileId": "8b45093c-ae05-4eeb-a73c-ba4993fc49c6",
+        "userId": "8b45093c-ae05-4eeb-a73c-ba4993fc49c6",
+        "platformType": "uplay",
+        "idOnPlatform": "8b45093c-ae05-4eeb-a73c-ba4993fc49c6",
+        "nameOnPlatform": "ShowMeGeez"
+    },
+    "syr_kosichka:uplay": {
+        "profileId": "ea9f813c-bbb3-4143-ac5a-b0139e61035a",
+        "userId": "ea9f813c-bbb3-4143-ac5a-b0139e61035a",
+        "platformType": "uplay",
+        "idOnPlatform": "ea9f813c-bbb3-4143-ac5a-b0139e61035a",
+        "nameOnPlatform": "syr_kosichka"
+    },
+    "McKato57:uplay": {
+        "profileId": "7b52f94a-d7b5-449a-8150-686b1d8ed709",
+        "userId": "7b52f94a-d7b5-449a-8150-686b1d8ed709",
+        "platformType": "uplay",
+        "idOnPlatform": "7b52f94a-d7b5-449a-8150-686b1d8ed709",
+        "nameOnPlatform": "McKato57"
+    },
+    "Bella--ciao:uplay": {
+        "profileId": "b1296d4e-60fd-455d-a8f3-ee9a21d2b939",
+        "userId": "b1296d4e-60fd-455d-a8f3-ee9a21d2b939",
+        "platformType": "uplay",
+        "idOnPlatform": "b1296d4e-60fd-455d-a8f3-ee9a21d2b939",
+        "nameOnPlatform": "Bella--ciao"
+    },
+    "WW_NightKing_:uplay": {
+        "profileId": "ece3ab4f-bc37-4083-99f6-9103d241bc11",
+        "userId": "ece3ab4f-bc37-4083-99f6-9103d241bc11",
+        "platformType": "uplay",
+        "idOnPlatform": "ece3ab4f-bc37-4083-99f6-9103d241bc11",
+        "nameOnPlatform": "WW_NightKing_"
+    },
+    "EFD.:uplay": {
+        "profileId": "def3b44f-4e57-4b0d-95b3-536ab4d521ab",
+        "userId": "def3b44f-4e57-4b0d-95b3-536ab4d521ab",
+        "platformType": "uplay",
+        "idOnPlatform": "DEF3B44F-4E57-4B0D-95B3-536AB4D521AB",
+        "nameOnPlatform": "EFD."
+    },
+    "Sentinel_S7:uplay": {
+        "profileId": "60ca1c54-4801-4624-9601-2c24cdd43ce6",
+        "userId": "60ca1c54-4801-4624-9601-2c24cdd43ce6",
+        "platformType": "uplay",
+        "idOnPlatform": "60CA1C54-4801-4624-9601-2C24CDD43CE6",
+        "nameOnPlatform": "Sentinel_S7"
+    },
+    "flamelash707:uplay": {
+        "profileId": "94051755-00b6-4f43-98af-4d057ec21cc4",
+        "userId": "94051755-00b6-4f43-98af-4d057ec21cc4",
+        "platformType": "uplay",
+        "idOnPlatform": "94051755-00b6-4f43-98af-4d057ec21cc4",
+        "nameOnPlatform": "flamelash707"
+    },
+    "Jeane-Ravenwood:uplay": {
+        "profileId": "ca27826c-a7ea-40e5-801b-888e4e0a56a1",
+        "userId": "ca27826c-a7ea-40e5-801b-888e4e0a56a1",
+        "platformType": "uplay",
+        "idOnPlatform": "CA27826C-A7EA-40E5-801B-888E4E0A56A1",
+        "nameOnPlatform": "Jeane-Ravenwood"
+    },
+    "nonoffensivname:uplay": {
+        "profileId": "2d5ad36c-1cfb-4d45-9a4c-a821ce2df808",
+        "userId": "2d5ad36c-1cfb-4d45-9a4c-a821ce2df808",
+        "platformType": "uplay",
+        "idOnPlatform": "2D5AD36C-1CFB-4D45-9A4C-A821CE2DF808",
+        "nameOnPlatform": "nonoffensivname"
+    },
+    "Just_Mo.Onika:uplay": {
+        "profileId": "48ba3274-6713-4bf8-9fbc-90862582fa8a",
+        "userId": "48ba3274-6713-4bf8-9fbc-90862582fa8a",
+        "platformType": "uplay",
+        "idOnPlatform": "48ba3274-6713-4bf8-9fbc-90862582fa8a",
+        "nameOnPlatform": "Just_Mo.Onika"
+    },
+    "Plama450:uplay": {
+        "profileId": "9ed25776-ff11-410b-bf93-ae8ecf659d5c",
+        "userId": "9ed25776-ff11-410b-bf93-ae8ecf659d5c",
+        "platformType": "uplay",
+        "idOnPlatform": "9ED25776-FF11-410B-BF93-AE8ECF659D5C",
+        "nameOnPlatform": "Plama450"
+    },
+    "Hansneko:uplay": {
+        "profileId": "6952947d-5d3a-4d6c-9214-b1faf689d333",
+        "userId": "6952947d-5d3a-4d6c-9214-b1faf689d333",
+        "platformType": "uplay",
+        "idOnPlatform": "6952947D-5D3A-4D6C-9214-B1FAF689D333",
+        "nameOnPlatform": "Hansneko"
+    },
+    "BTU-Based:uplay": {
+        "profileId": "2d37558b-bb94-4ac8-bc78-0da664cbe668",
+        "userId": "2d37558b-bb94-4ac8-bc78-0da664cbe668",
+        "platformType": "uplay",
+        "idOnPlatform": "2d37558b-bb94-4ac8-bc78-0da664cbe668",
+        "nameOnPlatform": "BTU-Based"
+    },
+    "Phoenix-Rising_:uplay": {
+        "profileId": "eb41ad8b-64ce-4fdd-8c52-e5cf495f59c9",
+        "userId": "eb41ad8b-64ce-4fdd-8c52-e5cf495f59c9",
+        "platformType": "uplay",
+        "idOnPlatform": "EB41AD8B-64CE-4FDD-8C52-E5CF495F59C9",
+        "nameOnPlatform": "Phoenix-Rising_"
+    },
+    "BlackstoneMercy:uplay": {
+        "profileId": "cf0a1b94-55a5-46ea-ace3-74f42f3df666",
+        "userId": "cf0a1b94-55a5-46ea-ace3-74f42f3df666",
+        "platformType": "uplay",
+        "idOnPlatform": "CF0A1B94-55A5-46EA-ACE3-74F42F3DF666",
+        "nameOnPlatform": "BlackstoneMercy"
+    },
+    "SoberMan-:uplay": {
+        "profileId": "8f6cda9a-902f-48dd-8f9d-7d6acf9f28ee",
+        "userId": "8f6cda9a-902f-48dd-8f9d-7d6acf9f28ee",
+        "platformType": "uplay",
+        "idOnPlatform": "8f6cda9a-902f-48dd-8f9d-7d6acf9f28ee",
+        "nameOnPlatform": "SoberMan-"
+    },
+    "lTheHoundl:uplay": {
+        "profileId": "5cc4e49b-426f-48f3-aea7-f82bbe28cc1b",
+        "userId": "5cc4e49b-426f-48f3-aea7-f82bbe28cc1b",
+        "platformType": "uplay",
+        "idOnPlatform": "5cc4e49b-426f-48f3-aea7-f82bbe28cc1b",
+        "nameOnPlatform": "lTheHoundl"
+    },
+    "WARWARKA:uplay": {
+        "profileId": "1e79e29e-4714-4944-9a14-026527d6ea2a",
+        "userId": "1e79e29e-4714-4944-9a14-026527d6ea2a",
+        "platformType": "uplay",
+        "idOnPlatform": "1e79e29e-4714-4944-9a14-026527d6ea2a",
+        "nameOnPlatform": "WARWARKA"
+    },
+    "DunsparrowLV:uplay": {
+        "profileId": "25f1149f-48d2-44fd-bee1-b6d2ff1b40e7",
+        "userId": "25f1149f-48d2-44fd-bee1-b6d2ff1b40e7",
+        "platformType": "uplay",
+        "idOnPlatform": "25F1149F-48D2-44FD-BEE1-B6D2FF1B40E7",
+        "nameOnPlatform": "DunsparrowLV"
+    },
+    "kimkyal:uplay": {
+        "profileId": "ff6ea1a0-cc23-445d-b93e-a6167973bd6c",
+        "userId": "ff6ea1a0-cc23-445d-b93e-a6167973bd6c",
+        "platformType": "uplay",
+        "idOnPlatform": "ff6ea1a0-cc23-445d-b93e-a6167973bd6c",
+        "nameOnPlatform": "kimkyal"
+    },
+    "Nines_Own_Goal:uplay": {
+        "profileId": "375382a2-e248-41c2-a1b2-c34ca92fcda6",
+        "userId": "375382a2-e248-41c2-a1b2-c34ca92fcda6",
+        "platformType": "uplay",
+        "idOnPlatform": "375382a2-e248-41c2-a1b2-c34ca92fcda6",
+        "nameOnPlatform": "Nines_Own_Goal"
+    },
+    "CoteDePorc_:uplay": {
+        "profileId": "6210f4a6-585f-4791-8ad8-dcdbd3c71a34",
+        "userId": "6210f4a6-585f-4791-8ad8-dcdbd3c71a34",
+        "platformType": "uplay",
+        "idOnPlatform": "6210f4a6-585f-4791-8ad8-dcdbd3c71a34",
+        "nameOnPlatform": "CoteDePorc_"
+    },
+    "Qbao221:uplay": {
+        "profileId": "da3436ad-0ccb-465d-a303-818c150086d5",
+        "userId": "da3436ad-0ccb-465d-a303-818c150086d5",
+        "platformType": "uplay",
+        "idOnPlatform": "da3436ad-0ccb-465d-a303-818c150086d5",
+        "nameOnPlatform": "Qbao221"
+    },
+    "ToxicOnPurpose:uplay": {
+        "profileId": "bb825bb7-e050-4218-82bb-deffabb8210f",
+        "userId": "bb825bb7-e050-4218-82bb-deffabb8210f",
+        "platformType": "uplay",
+        "idOnPlatform": "BB825BB7-E050-4218-82BB-DEFFABB8210F",
+        "nameOnPlatform": "ToxicOnPurpose"
+    },
+    "davidsvaton:uplay": {
+        "profileId": "29d28cbf-d946-4ebf-a9bf-a654b980f174",
+        "userId": "29d28cbf-d946-4ebf-a9bf-a654b980f174",
+        "platformType": "uplay",
+        "idOnPlatform": "29d28cbf-d946-4ebf-a9bf-a654b980f174",
+        "nameOnPlatform": "davidsvaton"
+    },
+    "ThanaIotte:uplay": {
+        "profileId": "ec312ec6-1475-4b81-a030-73d7e2ba3465",
+        "userId": "ec312ec6-1475-4b81-a030-73d7e2ba3465",
+        "platformType": "uplay",
+        "idOnPlatform": "ec312ec6-1475-4b81-a030-73d7e2ba3465",
+        "nameOnPlatform": "ThanaIotte"
+    },
+    "AC35S4S51N:uplay": {
+        "profileId": "9b2a16c9-ce90-4678-88f7-9c9f9b628464",
+        "userId": "9b2a16c9-ce90-4678-88f7-9c9f9b628464",
+        "platformType": "uplay",
+        "idOnPlatform": "9B2A16C9-CE90-4678-88F7-9C9F9B628464",
+        "nameOnPlatform": "AC35S4S51N"
+    },
+    "robboy123:uplay": {
+        "profileId": "91d8dfcb-eb6a-4611-9472-4a3aa1623b52",
+        "userId": "91d8dfcb-eb6a-4611-9472-4a3aa1623b52",
+        "platformType": "uplay",
+        "idOnPlatform": "91d8dfcb-eb6a-4611-9472-4a3aa1623b52",
+        "nameOnPlatform": "robboy123"
+    },
+    "BillFinger:uplay": {
+        "profileId": "0a3bd2d0-0e0c-416d-a458-51f1468f0bce",
+        "userId": "0a3bd2d0-0e0c-416d-a458-51f1468f0bce",
+        "platformType": "uplay",
+        "idOnPlatform": "0A3BD2D0-0E0C-416D-A458-51F1468F0BCE",
+        "nameOnPlatform": "BillFinger"
+    },
+    "Remy_777:uplay": {
+        "profileId": "ab9d07d1-d7a5-474a-b349-6c036bad2883",
+        "userId": "ab9d07d1-d7a5-474a-b349-6c036bad2883",
+        "platformType": "uplay",
+        "idOnPlatform": "ab9d07d1-d7a5-474a-b349-6c036bad2883",
+        "nameOnPlatform": "Remy_777"
+    },
+    "Emanuelakaduro:uplay": {
+        "profileId": "beea4bd7-f246-48be-8d5a-e6f2d385a7d9",
+        "userId": "beea4bd7-f246-48be-8d5a-e6f2d385a7d9",
+        "platformType": "uplay",
+        "idOnPlatform": "beea4bd7-f246-48be-8d5a-e6f2d385a7d9",
+        "nameOnPlatform": "Emanuelakaduro"
+    },
+    "Observeye:uplay": {
+        "profileId": "032f0ddb-64ce-4969-aa3d-5afc5046c2fc",
+        "userId": "032f0ddb-64ce-4969-aa3d-5afc5046c2fc",
+        "platformType": "uplay",
+        "idOnPlatform": "032f0ddb-64ce-4969-aa3d-5afc5046c2fc",
+        "nameOnPlatform": "Observeye"
+    },
+    "foroverxiaowei:uplay": {
+        "profileId": "ca7473ed-ec28-4d9e-a4aa-eeb5c02f13aa",
+        "userId": "ca7473ed-ec28-4d9e-a4aa-eeb5c02f13aa",
+        "platformType": "uplay",
+        "idOnPlatform": "CA7473ED-EC28-4D9E-A4AA-EEB5C02F13AA",
+        "nameOnPlatform": "foroverxiaowei"
+    },
+    "InsomniaCure:uplay": {
+        "profileId": "b9e099ef-2a11-40d5-bba5-254d71a88c5d",
+        "userId": "b9e099ef-2a11-40d5-bba5-254d71a88c5d",
+        "platformType": "uplay",
+        "idOnPlatform": "B9E099EF-2A11-40D5-BBA5-254D71A88C5D",
+        "nameOnPlatform": "InsomniaCure"
+    },
+    "r3tr0-.:uplay": {
+        "profileId": "09882af0-661a-4516-807a-d7abb466b5ca",
+        "userId": "09882af0-661a-4516-807a-d7abb466b5ca",
+        "platformType": "uplay",
+        "idOnPlatform": "09882af0-661a-4516-807a-d7abb466b5ca",
+        "nameOnPlatform": "r3tr0-."
+    },
+    "AnTT SoS:xbl": {
+        "profiles": [
+            {
+                "profileId": "7ca15466-3bbc-4b60-b0eb-73d82f1c126f",
+                "userId": "18ecb59c-6892-4185-936c-5d7db5262409",
+                "platformType": "xbl",
+                "idOnPlatform": "2535409189885052",
+                "nameOnPlatform": "AnTT SoS"
+            }
+        ]
+    },
+    "Yanis-AK-Police:psn": {
+        "profiles": [
+            {
+                "profileId": "29b1cd22-8636-4838-9174-1323875c9818",
+                "userId": "6934942a-e8c3-4851-a6ac-63b1cb4f0a1c",
+                "platformType": "psn",
+                "idOnPlatform": "1510201429678904402",
+                "nameOnPlatform": "Yanis-AK-Police"
+            }
+        ]
+    },
+    "zeitsu-:psn": {
+        "profiles": [
+            {
+                "profileId": "99eebb8d-3f2b-45c0-89ea-a1b087e617f7",
+                "userId": "d5021b41-8caa-468f-81c6-edef011b91a3",
+                "platformType": "psn",
+                "idOnPlatform": "3148612910718026189",
+                "nameOnPlatform": "zeitsu-"
+            }
+        ]
+    },
+    "DJ_Twizzle89:psn": {
+        "profiles": [
+            {
+                "profileId": "958b315d-9d48-4e5e-b8b6-371dbfa4037f",
+                "userId": "45138ee1-4484-4c53-8a05-75ea7ac48b37",
+                "platformType": "psn",
+                "idOnPlatform": "8168395735582542911",
+                "nameOnPlatform": "DJ_Twizzle89"
+            }
+        ]
+    },
+    "sharkas96:psn": {
+        "profiles": [
+            {
+                "profileId": "1cbae3ca-f89a-4a5b-ab97-93172924f241",
+                "userId": "a02fe464-2509-47a7-81b2-24c40c924dff",
+                "platformType": "psn",
+                "idOnPlatform": "3038181944951940285",
+                "nameOnPlatform": "sharkas96"
+            }
+        ]
+    },
+    "jamiejojr12305:psn": {
+        "profiles": [
+            {
+                "profileId": "9ba24491-f64a-44a2-9ac2-52b5784d3ccb",
+                "userId": "b99a01b3-078b-4297-9b88-2ae7ef18de8e",
+                "platformType": "psn",
+                "idOnPlatform": "6457359531949475341",
+                "nameOnPlatform": "jamiejojr12305"
+            }
+        ]
+    },
+    "RecklessMaxx:psn": {
+        "profiles": [
+            {
+                "profileId": "2fb7b212-8fc1-4eec-8fa8-e61a5017545a",
+                "userId": "2a0ee714-fd75-4a0e-8314-46e770ff6709",
+                "platformType": "psn",
+                "idOnPlatform": "7883725251440683218",
+                "nameOnPlatform": "RecklessMaxx"
+            }
+        ]
+    },
+    "bently77:psn": {
+        "profiles": [
+            {
+                "profileId": "9a54e58a-3350-4927-9bfa-16d571ea9faa",
+                "userId": "7fd667f2-c8d2-43f6-9922-25b4491d7952",
+                "platformType": "psn",
+                "idOnPlatform": "1205927870344559099",
+                "nameOnPlatform": "bently77"
+            }
+        ]
+    },
+    "yeyed:psn": {
+        "profiles": [
+            {
+                "profileId": "99382d22-210e-434e-becf-83319d75c9e4",
+                "userId": "0ad93742-a29d-44f5-a27e-5f947573eadf",
+                "platformType": "psn",
+                "idOnPlatform": "1287647395317282935",
+                "nameOnPlatform": "yeyed"
+            }
+        ]
+    },
+    "ShyBoy 00:xbl": {
+        "profiles": [
+            {
+                "profileId": "2bbad7f7-ee17-4355-81a5-1c46552b4f23",
+                "userId": "54b7501c-3286-4453-ab2a-9f3d5f1a2e42",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274919492832",
+                "nameOnPlatform": "ShyBoy 00"
+            }
+        ]
+    },
+    "El_Terkos:psn": {
+        "profiles": [
+            {
+                "profileId": "66f28ae7-9e4c-425b-8120-defe69e95445",
+                "userId": "1aee1a27-e3a6-44cb-a2cd-155174a021b4",
+                "platformType": "psn",
+                "idOnPlatform": "294175215290814956",
+                "nameOnPlatform": "El_Terkos"
+            }
+        ]
+    },
+    "farurej:psn": {
+        "profiles": [
+            {
+                "profileId": "1ce89dca-1b65-4968-942b-db08d256d46a",
+                "userId": "6622b722-4a1a-4f7d-a4e9-fa6fe0f1dde5",
+                "platformType": "psn",
+                "idOnPlatform": "1135037282020984774",
+                "nameOnPlatform": "farurej"
+            }
+        ]
+    },
+    "Olafhd23:psn": {
+        "profiles": [
+            {
+                "profileId": "2b72e2f8-4365-4d63-ae7b-140335913ae6",
+                "userId": "697be6af-89e1-4568-9ec3-47f16472723b",
+                "platformType": "psn",
+                "idOnPlatform": "2732562165746313856",
+                "nameOnPlatform": "Olafhd23"
+            }
+        ]
+    },
+    "Project Oniii:xbl": {
+        "profiles": [
+            {
+                "profileId": "fa8dc7bc-7b71-478b-bfed-993939404a02",
+                "userId": "05744815-b170-4ac9-844b-80b628416c6f",
+                "platformType": "xbl",
+                "idOnPlatform": "2535472226913041",
+                "nameOnPlatform": "Project Oniii"
+            }
+        ]
+    },
+    "LilLonzoVert:xbl": {
+        "profiles": [
+            {
+                "profileId": "4885dc10-984a-4db8-8457-a6654915f8c0",
+                "userId": "d8ac3475-ae4d-4231-a818-7ecf7f3aa54c",
+                "platformType": "xbl",
+                "idOnPlatform": "2535406313949519",
+                "nameOnPlatform": "LilLonzoVert"
+            }
+        ]
+    },
+    "MSN Nightingale:xbl": {
+        "profiles": [
+            {
+                "profileId": "dcf06178-a8d4-4992-b2d5-6a89f1a6256c",
+                "userId": "a31799d8-e811-4271-be2e-f0699dce3084",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274995878470",
+                "nameOnPlatform": "MSN Nightingale"
+            }
+        ]
+    },
+    "Traveler_EC:psn": {
+        "profiles": [
+            {
+                "profileId": "df207bf8-43d3-402f-9cd9-732c344eebc0",
+                "userId": "f05ccb2f-4341-4dd4-88c3-85974c0dabe4",
+                "platformType": "psn",
+                "idOnPlatform": "2525868700046206452",
+                "nameOnPlatform": "Traveler_EC"
+            }
+        ]
+    },
+    "Diistruct:psn": {
+        "profiles": [
+            {
+                "profileId": "0fcffc01-eb56-4b5b-bc79-89e4b2adc9d7",
+                "userId": "d35f39dc-606e-4d18-aa07-dfe997b25025",
+                "platformType": "psn",
+                "idOnPlatform": "4688811441995768687",
+                "nameOnPlatform": "Diistruct"
+            }
+        ]
+    },
+    "GrungyShrimp659:xbl": {
+        "profiles": [
+            {
+                "profileId": "45b3e439-3499-488f-8a8c-148b8eb8c318",
+                "userId": "b8bec739-7243-4d3b-bd33-3e8e71cbe131",
+                "platformType": "xbl",
+                "idOnPlatform": "2535430050758732",
+                "nameOnPlatform": "GrungyShrimp659"
+            }
+        ]
+    },
+    "Script_Ya_Soul:psn": {
+        "profiles": [
+            {
+                "profileId": "4a9181b8-6f8c-4f1d-955f-acd275556ea4",
+                "userId": "877667d2-7d47-45ff-9f69-6a385b2f05bb",
+                "platformType": "psn",
+                "idOnPlatform": "8835180699047212814",
+                "nameOnPlatform": "Script_Ya_Soul"
+            }
+        ]
+    },
+    "LuckyMe0w0:xbl": {
+        "profiles": [
+            {
+                "profileId": "5b4a9a2e-796a-4355-88e7-52dcff90eec7",
+                "userId": "216f2847-8205-4cc3-be80-2156de1a383c",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274919307689",
+                "nameOnPlatform": "LuckyMe0w0"
+            }
+        ]
+    },
+    "XxTRICKSHOTPUGx:xbl": {
+        "profiles": [
+            {
+                "profileId": "39ed5e5a-b015-4256-a758-571d8a4a398c",
+                "userId": "40451df5-fe97-40b6-8ad3-228f50fa7494",
+                "platformType": "xbl",
+                "idOnPlatform": "2535460585009443",
+                "nameOnPlatform": "XxTRICKSHOTPUGx"
+            }
+        ]
+    },
+    "Got his eyes:xbl": {
+        "profiles": [
+            {
+                "profileId": "95b03a10-75c2-45da-95b6-1e0468017da2",
+                "userId": "92098d36-0171-4e50-89a9-920cdc5fcc27",
+                "platformType": "xbl",
+                "idOnPlatform": "2535437738435732",
+                "nameOnPlatform": "Got his eyes"
+            }
+        ]
+    },
+    "AngeFaux:xbl": {
+        "profiles": [
+            {
+                "profileId": "2335e17b-60a5-4b93-805b-0e3b2183f62c",
+                "userId": "5b307b71-1410-457f-9f28-26f7fbbcd082",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274947713633",
+                "nameOnPlatform": "AngeFaux"
+            }
+        ]
+    },
+    "imcomingtoday:psn": {
+        "profiles": [
+            {
+                "profileId": "4456ccd0-fb03-4668-b383-dee657ea199c",
+                "userId": "a3184b7d-f92b-4804-b002-6e60ecd4fe08",
+                "platformType": "psn",
+                "idOnPlatform": "4584372314032006687",
+                "nameOnPlatform": "imcomingtoday"
+            }
+        ]
+    },
+    "zGuGODz:xbl": {
+        "profiles": [
+            {
+                "profileId": "4f5f4c1d-02cc-4cfe-9d22-40ae9d36723a",
+                "userId": "d10dd3a8-dd21-4aec-bdc0-952e7d5476df",
+                "platformType": "xbl",
+                "idOnPlatform": "2533275029264807",
+                "nameOnPlatform": "zGuGODz"
+            }
+        ]
+    },
+    "PoenieJuice:xbl": {
+        "profiles": [
+            {
+                "profileId": "d1bad507-343e-44e3-a81d-6884418aa5d7",
+                "userId": "b8559c28-e0e2-460d-8554-b2b296efa400",
+                "platformType": "xbl",
+                "idOnPlatform": "2535411662703033",
+                "nameOnPlatform": "PoenieJuice"
+            }
+        ]
+    },
+    "I GET TONZ:xbl": {
+        "profiles": [
+            {
+                "profileId": "9f994347-cfcc-4f69-8e75-b45337a6b105",
+                "userId": "7b8e61d2-b554-4cd7-b506-12cf5d0ea8ab",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274869577750",
+                "nameOnPlatform": "I GET TONZ"
+            }
+        ]
+    },
+    "BCK Saberzon:xbl": {
+        "profiles": [
+            {
+                "profileId": "cc8ee625-83b9-460a-9eb8-a2a961cee9a8",
+                "userId": "2526851e-db0a-4ffb-8397-c2c84b48eba0",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274947333779",
+                "nameOnPlatform": "BCK Saberzon"
+            }
+        ]
+    },
+    "JusticeForPugs:psn": {
+        "profiles": [
+            {
+                "profileId": "6683d8c4-61bb-4b59-9459-94f86230a96d",
+                "userId": "e36b1e2d-8c34-47b3-aa62-d7bea238f4dc",
+                "platformType": "psn",
+                "idOnPlatform": "8873966135370212920",
+                "nameOnPlatform": "JusticeForPugs"
+            }
+        ]
+    },
+    "Uchishio:psn": {
+        "profiles": [
+            {
+                "profileId": "692af80b-7086-43e7-9cb8-0111b03878c6",
+                "userId": "60074fd2-34f2-4446-9eef-4d0e03f86e26",
+                "platformType": "psn",
+                "idOnPlatform": "4063155320260353817",
+                "nameOnPlatform": "Uchishio"
+            }
+        ]
+    },
+    "Pepe el Toro:xbl": {
+        "profiles": [
+            {
+                "profileId": "44c11a23-5684-4fa2-b5bf-e145ca659abf",
+                "userId": "a899119b-7cab-4659-8486-c6c3b1dcb502",
+                "platformType": "xbl",
+                "idOnPlatform": "2717573882299947",
+                "nameOnPlatform": "Pepe el Toro"
+            }
+        ]
+    },
+    "wHeels1357:psn": {
+        "profiles": [
+            {
+                "profileId": "60ada161-d9c6-4929-8e72-54ad0123c0e0",
+                "userId": "07b0d9b5-8fbe-47d1-b1d1-1e2f75d1d787",
+                "platformType": "psn",
+                "idOnPlatform": "4235863273522813738",
+                "nameOnPlatform": "wHeels1357"
+            }
+        ]
+    },
+    "JamesonWhiskey9:xbl": {
+        "profiles": [
+            {
+                "profileId": "fc236d59-6ace-4bd0-bd2e-7417003c11de",
+                "userId": "61e624de-ab15-41be-8bcd-e5f3161a2742",
+                "platformType": "xbl",
+                "idOnPlatform": "2535470329077460",
+                "nameOnPlatform": "JamesonWhiskey9"
+            }
+        ]
+    },
+    "Big_Papi109:psn": {
+        "profiles": [
+            {
+                "profileId": "39114657-5f27-48fe-8bf3-ef3061e632eb",
+                "userId": "fb870865-0b39-406c-8d96-8fb77aa6a133",
+                "platformType": "psn",
+                "idOnPlatform": "2403946171305025435",
+                "nameOnPlatform": "Big_Papi109"
+            }
+        ]
+    },
+    "TestingSteak575:xbl": {
+        "profiles": [
+            {
+                "profileId": "e10f0a05-97b1-4f8f-971d-6bfb3e1b8942",
+                "userId": "42edf090-add2-48f8-9309-9a0e0b99948f",
+                "platformType": "xbl",
+                "idOnPlatform": "2535435147938722",
+                "nameOnPlatform": "TestingSteak575"
+            }
+        ]
+    },
+    "OddDog91:psn": {
+        "profiles": [
+            {
+                "profileId": "2ce6b5a6-b3c1-4853-8b8e-56832d7cd6d4",
+                "userId": "4b614c32-cae5-46e5-8feb-a78470f011ca",
+                "platformType": "psn",
+                "idOnPlatform": "2133948991220421595",
+                "nameOnPlatform": "OddDog91"
+            }
+        ]
+    },
+    "Dressi30:psn": {
+        "profiles": [
+            {
+                "profileId": "c4e14b01-a75c-4796-af31-a755e24fcf7c",
+                "userId": "4a3b8dbc-4ba2-4842-b181-d4d65b1c53d4",
+                "platformType": "psn",
+                "idOnPlatform": "8437859727992719339",
+                "nameOnPlatform": "Dressi30"
+            }
+        ]
+    },
+    "EnslavedSandwich:psn": {
+        "profiles": [
+            {
+                "profileId": "2afca6d0-8f6e-4438-b068-f8e318c34136",
+                "userId": "5051ecce-e2aa-4356-8684-9e6fa1a369f3",
+                "platformType": "psn",
+                "idOnPlatform": "1508289188844426406",
+                "nameOnPlatform": "EnslavedSandwich"
+            }
+        ]
+    },
+    "ChthonicAxis:xbl": {
+        "profiles": [
+            {
+                "profileId": "dcf0ff6c-85b1-46c9-84b9-267243402548",
+                "userId": "12824234-ba98-4c14-9130-7a44520f228d",
+                "platformType": "xbl",
+                "idOnPlatform": "2535443212419555",
+                "nameOnPlatform": "ChthonicAxis"
+            }
+        ]
+    },
+    "Wack Sama:xbl": {
+        "profiles": [
+            {
+                "profileId": "e910d9ea-541a-43ab-995d-6e226b9eee15",
+                "userId": "5a231c6c-5516-4a1c-bca4-5209e2f99a6e",
+                "platformType": "xbl",
+                "idOnPlatform": "2535439131845047",
+                "nameOnPlatform": "Wack Sama"
+            }
+        ]
+    },
+    "E Arsen:xbl": {
+        "profiles": [
+            {
+                "profileId": "3afa2d77-9368-4847-9825-f198368d965d",
+                "userId": "a55ef8b9-3e7f-4ef2-ae98-a52872024e6e",
+                "platformType": "xbl",
+                "idOnPlatform": "2535436220895794",
+                "nameOnPlatform": "E Arsen"
+            }
+        ]
+    },
+    "M4D D4WG4906:xbl": {
+        "profiles": [
+            {
+                "profileId": "8555fb76-4bf0-4c39-8356-c4b23a4e2c02",
+                "userId": "23fb2ce6-4074-420d-af13-80d369a9ee99",
+                "platformType": "xbl",
+                "idOnPlatform": "2535406053674843",
+                "nameOnPlatform": "M4D D4WG4906"
+            }
+        ]
+    },
+    "True Retros:xbl": {
+        "profiles": [
+            {
+                "profileId": "04807c6d-bdb1-4d05-8357-918dd91a8b1c",
+                "userId": "7a1ff071-a43d-40b0-8bd3-bf316a3f4fa6",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274855885149",
+                "nameOnPlatform": "True Retros"
+            }
+        ]
+    },
+    "Val_Dubsy:psn": {
+        "profiles": [
+            {
+                "profileId": "764b0475-6426-4f65-9793-b0c97294da51",
+                "userId": "5969af35-4bee-4b4a-85cf-2e7990a972a1",
+                "platformType": "psn",
+                "idOnPlatform": "9100427981294849711",
+                "nameOnPlatform": "Val_Dubsy"
+            }
+        ]
+    },
+    "JDoggMercEm95:psn": {
+        "profiles": [
+            {
+                "profileId": "eaf3ba94-dc29-467a-844d-6a818a5732e9",
+                "userId": "b1421724-4ae3-4fc6-8828-dae3cde15c1a",
+                "platformType": "psn",
+                "idOnPlatform": "3437282547161383235",
+                "nameOnPlatform": "JDoggMercEm95"
+            }
+        ]
+    },
+    "Toxyboy55:psn": {
+        "profiles": [
+            {
+                "profileId": "c220c922-584d-4f12-b5e7-808149fc95df",
+                "userId": "acc7d746-eec4-4f4e-a890-3a4eddfa3822",
+                "platformType": "psn",
+                "idOnPlatform": "7619683316351387145",
+                "nameOnPlatform": "Toxyboy55"
+            }
+        ]
+    },
+    "Im_Berserker_:psn": {
+        "profiles": [
+            {
+                "profileId": "d26274d7-2633-4718-b37f-9f4e04d23093",
+                "userId": "e95a604a-a193-4c86-9138-ae678091fc2a",
+                "platformType": "psn",
+                "idOnPlatform": "6597109704434596435",
+                "nameOnPlatform": "Im_Berserker_"
+            }
+        ]
+    },
+    "Boogainvilly:xbl": {
+        "profiles": [
+            {
+                "profileId": "19c21619-38b5-423e-9cc2-654517022b86",
+                "userId": "1ba7a238-d2e0-43df-b894-cdddfd4b2ec0",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274972523096",
+                "nameOnPlatform": "Boogainvilly"
+            }
+        ]
+    },
+    "BalamOcelotl:xbl": {
+        "profiles": [
+            {
+                "profileId": "1f77510b-b90c-4a0a-b42b-b0ec5d97a83c",
+                "userId": "40b0889f-5136-4033-a905-aff9d1f180c9",
+                "platformType": "xbl",
+                "idOnPlatform": "2535450663101858",
+                "nameOnPlatform": "BalamOcelotl"
+            }
+        ]
+    },
+    "Mariusz2_0:psn": {
+        "profiles": [
+            {
+                "profileId": "fcf79e25-3279-4c66-9c6e-3677f0c36019",
+                "userId": "d2002b6e-952d-465c-a51f-dba82b256183",
+                "platformType": "psn",
+                "idOnPlatform": "7457048467999186416",
+                "nameOnPlatform": "Mariusz2_0"
+            }
+        ]
+    },
+    "SenorxBalci:xbl": {
+        "profiles": [
+            {
+                "profileId": "700f24b5-507e-4ea1-bedf-e2cddc8bb9ce",
+                "userId": "fb28ed4b-48da-4c02-ba29-10d03b22bb1c",
+                "platformType": "xbl",
+                "idOnPlatform": "2535429690207715",
+                "nameOnPlatform": "SenorxBalci"
+            }
+        ]
+    },
+    "OneWonderfulNut:psn": {
+        "profiles": [
+            {
+                "profileId": "2f0681e9-3534-4e84-940b-4200e2ae212d",
+                "userId": "47a83d70-f9fd-474d-9f21-fb0f50ddf103",
+                "platformType": "psn",
+                "idOnPlatform": "4589741216802208149",
+                "nameOnPlatform": "OneWonderfulNut"
+            }
+        ]
+    },
+    "Fondbracelet264:xbl": {
+        "profiles": [
+            {
+                "profileId": "5e079bf6-3159-461b-8db7-6e3d0c8b88af",
+                "userId": "cc39ab0c-c8e1-4cba-95d8-698494162205",
+                "platformType": "xbl",
+                "idOnPlatform": "2535468595700716",
+                "nameOnPlatform": "Fondbracelet264"
+            }
+        ]
+    },
+    "HellishBoom:xbl": {
+        "profiles": [
+            {
+                "profileId": "7bf713fa-d9c5-4532-8a43-75e020509c55",
+                "userId": "facefaca-b5c7-45a4-a822-c6cf687cd9db",
+                "platformType": "xbl",
+                "idOnPlatform": "2535431015283837",
+                "nameOnPlatform": "HellishBoom"
+            }
+        ]
+    },
+    "AWWxMANxIxDIED:xbl": {
+        "profiles": [
+            {
+                "profileId": "ec8a1659-68f0-4a0b-bd6e-30b342706788",
+                "userId": "f2b2694e-b83f-4eae-929b-cf9e985785f3",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274919207896",
+                "nameOnPlatform": "AWWxMANxIxDIED"
+            }
+        ]
+    },
+    "ARavenOfEire:psn": {
+        "profiles": [
+            {
+                "profileId": "90f71f1c-58fb-49ad-9e61-7ff65c65896d",
+                "userId": "379c137d-2c17-45e6-8f50-36db7b12d504",
+                "platformType": "psn",
+                "idOnPlatform": "1611296227448746159",
+                "nameOnPlatform": "ARavenOfEire"
+            }
+        ]
+    },
+    "NuclearWarheadZ:xbl": {
+        "profiles": [
+            {
+                "profileId": "7f826e44-d882-4e3d-b459-799fa08aa8cd",
+                "userId": "55c8b6f9-353c-4991-a64e-14b73a8846b5",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274896028327",
+                "nameOnPlatform": "NuclearWarheadZ"
+            }
+        ]
+    },
+    "Ticio24:psn": {
+        "profiles": [
+            {
+                "profileId": "95987d37-fe3b-42f9-871a-8cb423e5b04d",
+                "userId": "f389b683-131b-4b39-abaf-41feca86b986",
+                "platformType": "psn",
+                "idOnPlatform": "1392720350646724214",
+                "nameOnPlatform": "Ticio24"
+            }
+        ]
+    },
+    "TDS_Coeus57:psn": {
+        "profiles": [
+            {
+                "profileId": "d98993aa-9325-4abd-b3e2-9b954ca8ddaa",
+                "userId": "adb80d66-2788-420f-bbb5-10823c15005c",
+                "platformType": "psn",
+                "idOnPlatform": "6189939188520686229",
+                "nameOnPlatform": "TDS_Coeus57"
+            }
+        ]
+    },
+    "potato__24:psn": {
+        "profiles": [
+            {
+                "profileId": "f69791e7-6798-4782-875f-94b05222c2b1",
+                "userId": "c9d4cf8b-9536-439a-8787-f27f42ca2a7a",
+                "platformType": "psn",
+                "idOnPlatform": "4572127410091641881",
+                "nameOnPlatform": "potato__24"
+            }
+        ]
+    },
+    "NiTro360420:psn": {
+        "profiles": [
+            {
+                "profileId": "6f85856d-441e-4aac-bba6-0297e68c7e15",
+                "userId": "f8c5d0c0-974d-4444-9ecf-12b3e23342d9",
+                "platformType": "psn",
+                "idOnPlatform": "7262442176098844414",
+                "nameOnPlatform": "NiTro360420"
+            }
+        ]
+    },
+    "Quik3rs_Enzo:psn": {
+        "profiles": [
+            {
+                "profileId": "dea37c05-66fe-4d74-8894-df6d24a049a1",
+                "userId": "1f7cbef7-ec34-4be8-8d58-4f699a793042",
+                "platformType": "psn",
+                "idOnPlatform": "4179251386458822567",
+                "nameOnPlatform": "Quik3rs_Enzo"
+            }
+        ]
+    },
+    "Royel-Smith:psn": {
+        "profiles": [
+            {
+                "profileId": "e4163828-34b4-432e-a7b7-0ec91cdac83a",
+                "userId": "d2381e62-7009-428e-88bf-9b3173794023",
+                "platformType": "psn",
+                "idOnPlatform": "3433025224973494426",
+                "nameOnPlatform": "Royel-Smith"
+            }
+        ]
+    },
+    "NoMoMuffins:psn": {
+        "profiles": [
+            {
+                "profileId": "e16e0329-3928-4364-893e-47af967e124d",
+                "userId": "ab43f37a-8d28-41f8-8c53-54f95503e35f",
+                "platformType": "psn",
+                "idOnPlatform": "1217712547397791144",
+                "nameOnPlatform": "NoMoMuffins"
+            }
+        ]
+    },
+    "Dr Darawa:xbl": {
+        "profiles": [
+            {
+                "profileId": "93b2063c-e671-4cd6-8fe0-aeedd6309ca0",
+                "userId": "eb9b86ec-04b7-4d94-ae14-812111552d88",
+                "platformType": "xbl",
+                "idOnPlatform": "2535465218657800",
+                "nameOnPlatform": "Dr Darawa"
+            }
+        ]
+    },
+    "demon08435:psn": {
+        "profiles": [
+            {
+                "profileId": "6eeb24f6-58c9-4c05-908b-32d6b84ab86b",
+                "userId": "dfb5d70f-3447-455f-8c85-a63309e323d2",
+                "platformType": "psn",
+                "idOnPlatform": "4032907010464064512",
+                "nameOnPlatform": "demon08435"
+            }
+        ]
+    },
+    "SlayerDrex:xbl": {
+        "profiles": [
+            {
+                "profileId": "6eb8e77e-7fcd-4650-99fb-c32b01123ce8",
+                "userId": "992ec1df-9952-4c24-a6dc-dd667279ba42",
+                "platformType": "xbl",
+                "idOnPlatform": "2535412501778364",
+                "nameOnPlatform": "SlayerDrex"
+            }
+        ]
+    },
+    "viper169p:psn": {
+        "profiles": [
+            {
+                "profileId": "fc9a6a80-b41f-43af-843d-462c81d4a5db",
+                "userId": "95b75e09-e7a5-4daa-a8d7-3a1fb2f12dda",
+                "platformType": "psn",
+                "idOnPlatform": "6261120243856921280",
+                "nameOnPlatform": "viper169p"
+            }
+        ]
+    },
+    "il_paquito_89:psn": {
+        "profiles": [
+            {
+                "profileId": "6a51caf9-f905-43b7-b8d1-77ff907e5dae",
+                "userId": "c526ca47-4da1-47ab-b0a5-c1560bdf9902",
+                "platformType": "psn",
+                "idOnPlatform": "7805033227240448876",
+                "nameOnPlatform": "il_paquito_89"
+            }
+        ]
+    },
+    "MesiahOfTheHill:xbl": {
+        "profiles": [
+            {
+                "profileId": "5696e8ad-71d4-44e2-8df8-223b0ed857e0",
+                "userId": "b03ca8ab-af85-442a-a0e3-2b678fb524ec",
+                "platformType": "xbl",
+                "idOnPlatform": "2535412391691070",
+                "nameOnPlatform": "MesiahOfTheHill"
+            }
+        ]
+    },
+    "DeontaPF:psn": {
+        "profiles": [
+            {
+                "profileId": "a886d3ff-d786-445b-b137-5282dcbc6ee7",
+                "userId": "ded7c671-e31b-46f3-8d8a-ab396693342d",
+                "platformType": "psn",
+                "idOnPlatform": "4547089109289553101",
+                "nameOnPlatform": "DeontaPF"
+            }
+        ]
+    },
+    "BiG 40E:xbl": {
+        "profiles": [
+            {
+                "profileId": "2b980094-7c46-4336-aca6-834c9808a15c",
+                "userId": "9e8b65cf-c412-4ea7-8c93-9eb255909cba",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274992800352",
+                "nameOnPlatform": "BiG 40E"
+            }
+        ]
+    },
+    "Supercharger259:xbl": {
+        "profiles": [
+            {
+                "profileId": "f3803b55-229f-4597-8a05-69186fe071d9",
+                "userId": "eca96bd9-4afa-4c77-9e6b-5a888db56412",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274959509217",
+                "nameOnPlatform": "Supercharger259"
+            }
+        ]
+    },
+    "Banjo_TTV:psn": {
+        "profiles": [
+            {
+                "profileId": "3fc5a890-6c90-4d63-849a-8e653886ce76",
+                "userId": "18545b98-9494-47c8-9898-b0a23facf05b",
+                "platformType": "psn",
+                "idOnPlatform": "3666023198747354759",
+                "nameOnPlatform": "Banjo_TTV"
+            }
+        ]
+    },
+    "MetuoDreamTV:xbl": {
+        "profiles": [
+            {
+                "profileId": "98985c3b-afbb-4903-a1fd-572624d8248d",
+                "userId": "af0b2c17-1d43-44e8-b17c-eb414ada0232",
+                "platformType": "xbl",
+                "idOnPlatform": "2535470392369911",
+                "nameOnPlatform": "MetuoDreamTV"
+            }
+        ]
+    },
+    "TheOnePagan:psn": {
+        "profiles": [
+            {
+                "profileId": "0e49018b-ab85-451f-9138-b41bf34a61fd",
+                "userId": "c42ee8c9-8d89-47a5-9566-5a016bd18142",
+                "platformType": "psn",
+                "idOnPlatform": "8879418659959556223",
+                "nameOnPlatform": "TheOnePagan"
+            }
+        ]
+    },
+    "Tyrone33_33:psn": {
+        "profiles": [
+            {
+                "profileId": "a00d58ab-e3a1-4efb-8e69-07173d6b3fd9",
+                "userId": "5226a5c4-40a1-4dab-bca8-021bca4a90d9",
+                "platformType": "psn",
+                "idOnPlatform": "6850359876178845199",
+                "nameOnPlatform": "Tyrone33_33"
+            }
+        ]
+    },
+    "Jassim4488:psn": {
+        "profiles": [
+            {
+                "profileId": "33bf61f3-ccdf-49ec-a266-fa93a725dba2",
+                "userId": "1dd9d438-3c34-40a3-a3ee-0ce001c80c14",
+                "platformType": "psn",
+                "idOnPlatform": "3311051729871620916",
+                "nameOnPlatform": "Jassim4488"
+            }
+        ]
+    },
+    "Uncle IR15H:xbl": {
+        "profiles": [
+            {
+                "profileId": "778aa20e-9a59-4ad0-bba9-6a6ee66cb493",
+                "userId": "ca5cec08-9853-483c-809f-0de532761136",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274882417202",
+                "nameOnPlatform": "Uncle IR15H"
+            }
+        ]
+    },
+    "Daily Finesse:xbl": {
+        "profiles": [
+            {
+                "profileId": "3b15749e-d59b-4e2c-8a43-aedc6ab01ab0",
+                "userId": "84fa1fe3-a00b-44a1-b448-072995d424b3",
+                "platformType": "xbl",
+                "idOnPlatform": "2535457819608692",
+                "nameOnPlatform": "Daily Finesse"
+            }
+        ]
+    },
+    "StonedNative213:xbl": {
+        "profiles": [
+            {
+                "profileId": "aef1d71a-d868-4a15-ac9b-9bb00032a04a",
+                "userId": "1c03f452-b6f7-49aa-beef-d37492712c34",
+                "platformType": "xbl",
+                "idOnPlatform": "2535420602703515",
+                "nameOnPlatform": "StonedNative213"
+            }
+        ]
+    },
+    "SpahrtanVI:xbl": {
+        "profiles": [
+            {
+                "profileId": "15fd5abb-1fe4-4e99-ad6c-14d27f0ec3f1",
+                "userId": "e1d3c444-f5ec-4ab7-995e-3f1e1148adb5",
+                "platformType": "xbl",
+                "idOnPlatform": "2535462082457132",
+                "nameOnPlatform": "SpahrtanVI"
+            }
+        ]
+    },
+    "duhokstar:psn": {
+        "profiles": [
+            {
+                "profileId": "ad34b3a9-b5b9-4a5e-a963-97f5f9908560",
+                "userId": "cfba0230-cbb5-4994-9d29-43cfa44883cd",
+                "platformType": "psn",
+                "idOnPlatform": "1061341311086258080",
+                "nameOnPlatform": "duhokstar"
+            }
+        ]
+    },
+    "GoTYoUBaD:psn": {
+        "profiles": [
+            {
+                "profileId": "3f200219-e47c-42ce-a05b-9e0531149d96",
+                "userId": "d0e6d02e-a639-42ba-b675-a088df1af64f",
+                "platformType": "psn",
+                "idOnPlatform": "2636816513745671357",
+                "nameOnPlatform": "GoTYoUBaD"
+            }
+        ]
+    },
+    "The Scutarii:xbl": {
+        "profiles": [
+            {
+                "profileId": "ecfcb6d8-7877-450b-a4c0-7957b2aa00ca",
+                "userId": "faa3b4fb-8666-44f6-bf1e-747b5d665979",
+                "platformType": "xbl",
+                "idOnPlatform": "2535423280328900",
+                "nameOnPlatform": "The Scutarii"
+            }
+        ]
+    },
+    "Lil Ol Simp:xbl": {
+        "profiles": [
+            {
+                "profileId": "155b60e3-36f6-409a-83b0-bc73d393fb4e",
+                "userId": "a4d06afd-ddc4-417a-a14c-cea359851a64",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274950186381",
+                "nameOnPlatform": "Lil Ol Simp"
+            }
+        ]
+    },
+    "oz9r:xbl": {
+        "profiles": [
+            {
+                "profileId": "9b36b40d-a8bc-4445-9344-bcec5b46d636",
+                "userId": "ebd8101f-eb0e-4fe0-877b-9f2f7e8bf3bc",
+                "platformType": "xbl",
+                "idOnPlatform": "2535463195324618",
+                "nameOnPlatform": "oz9r"
+            }
+        ]
+    },
+    "razaryan97:psn": {
+        "profiles": [
+            {
+                "profileId": "6ce2145f-72d0-4ea8-b197-69f0479fda68",
+                "userId": "fa40f940-e981-4aaa-9369-82975d6fb1c2",
+                "platformType": "psn",
+                "idOnPlatform": "6367161924765874409",
+                "nameOnPlatform": "razaryan97"
+            }
+        ]
+    },
+    "maxge_23:psn": {
+        "profiles": [
+            {
+                "profileId": "39168443-760d-4e6e-b61f-8dfc79db3219",
+                "userId": "92999536-1032-4dc7-a6da-4546f81b7835",
+                "platformType": "psn",
+                "idOnPlatform": "2684209463912801524",
+                "nameOnPlatform": "maxge_23"
+            }
+        ]
+    },
+    "bionizard54:psn": {
+        "profiles": [
+            {
+                "profileId": "c4b25e6f-61d4-41f7-99f0-b8482b3196fe",
+                "userId": "df8fa3df-94a1-49f3-8aca-eef0062c088f",
+                "platformType": "psn",
+                "idOnPlatform": "596531720574591159",
+                "nameOnPlatform": "bionizard54"
+            }
+        ]
+    },
+    "Drowzie II:xbl": {
+        "profiles": [
+            {
+                "profileId": "411a7ce0-d7da-4cf2-a8e2-f5997892a1dc",
+                "userId": "427593b1-50cd-4114-83db-699d08d5b764",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274973772695",
+                "nameOnPlatform": "Drowzie II"
+            }
+        ]
+    },
+    "Motorcity-Bandit:psn": {
+        "profiles": [
+            {
+                "profileId": "09c608dc-10b6-44a3-9b75-a9181931c4f8",
+                "userId": "799a0c50-5b69-47f2-beea-e930a3fdac3c",
+                "platformType": "psn",
+                "idOnPlatform": "8449898665579211245",
+                "nameOnPlatform": "Motorcity-Bandit"
+            }
+        ]
+    },
+    "taxosaurus:psn": {
+        "profiles": [
+            {
+                "profileId": "1cefd796-543b-451d-bb49-3dca76be7786",
+                "userId": "e9777702-d06d-4ac9-b9c2-7f6345db76af",
+                "platformType": "psn",
+                "idOnPlatform": "6080010657799777657",
+                "nameOnPlatform": "taxosaurus"
+            }
+        ]
+    },
+    "ERwin-AM23:psn": {
+        "profiles": [
+            {
+                "profileId": "2dd9d9f5-a5f5-47c3-8d58-91889fa30cf3",
+                "userId": "8fc5182a-c306-4f39-98ed-1b85b4bebaf8",
+                "platformType": "psn",
+                "idOnPlatform": "6095739210191361830",
+                "nameOnPlatform": "ERwin-AM23"
+            }
+        ]
+    },
+    "Kidd_037:psn": {
+        "profiles": [
+            {
+                "profileId": "a66caf1d-8d65-48ca-8da0-d7c847d02ad5",
+                "userId": "9e7f02c3-a2de-41fb-aa1a-e70faca638ce",
+                "platformType": "psn",
+                "idOnPlatform": "3253983889474361787",
+                "nameOnPlatform": "Kidd_037"
+            }
+        ]
+    },
+    "Top_Me_Up-:psn": {
+        "profiles": [
+            {
+                "profileId": "c412cf80-e673-4c6a-87db-eb8ab481c9e9",
+                "userId": "10c88fb7-26d7-4d6f-81d5-7e13c6d89640",
+                "platformType": "psn",
+                "idOnPlatform": "9131136117267092411",
+                "nameOnPlatform": "Top_Me_Up-"
+            }
+        ]
+    },
+    "umatsubaki:psn": {
+        "profiles": [
+            {
+                "profileId": "be2a9f9b-26d7-47ad-a392-00caeefab261",
+                "userId": "e7ef24ec-b089-45f8-85b9-2f0ba87a4515",
+                "platformType": "psn",
+                "idOnPlatform": "6012982300008753625",
+                "nameOnPlatform": "umatsubaki"
+            }
+        ]
+    },
+    "Savage_Killer939:psn": {
+        "profiles": [
+            {
+                "profileId": "00523fe0-9a16-4405-b0ec-d653a434bae6",
+                "userId": "4bccf388-11cc-41c2-ac32-439f00fbf3ab",
+                "platformType": "psn",
+                "idOnPlatform": "8931280778498778197",
+                "nameOnPlatform": "Savage_Killer939"
+            }
+        ]
+    },
+    "JAH_proGamer-FR:psn": {
+        "profiles": [
+            {
+                "profileId": "a734bcd6-27b0-4278-9de0-2f478bb03e18",
+                "userId": "7ec6e531-48c6-4185-9d11-7a3c562fc20b",
+                "platformType": "psn",
+                "idOnPlatform": "6910200473864456172",
+                "nameOnPlatform": "JAH_proGamer-FR"
+            }
+        ]
+    },
+    "TimoHDx:xbl": {
+        "profiles": [
+            {
+                "profileId": "c3f7821e-850e-465b-8b68-25437d1f0262",
+                "userId": "648f01c0-f38c-4e83-bde0-ce93f61b33d5",
+                "platformType": "xbl",
+                "idOnPlatform": "2535441303409764",
+                "nameOnPlatform": "TimoHDx"
+            }
+        ]
+    },
+    "Mid-knight-eagle:psn": {
+        "profiles": [
+            {
+                "profileId": "8b2249d4-db76-4131-9329-ad7daf66f8ae",
+                "userId": "7a7be524-fae7-43db-a78f-da2fd773b38a",
+                "platformType": "psn",
+                "idOnPlatform": "2721239008496783808",
+                "nameOnPlatform": "Mid-knight-eagle"
+            }
+        ]
+    },
+    "KotalCollinator:xbl": {
+        "profiles": [
+            {
+                "profileId": "9670d362-da5b-4bdd-a4ff-a1429ca4c25b",
+                "userId": "75aaa0d5-3554-497f-88ba-7ffbfffa5761",
+                "platformType": "xbl",
+                "idOnPlatform": "2535406977934856",
+                "nameOnPlatform": "KotalCollinator"
+            }
+        ]
+    },
+    "Sir Knight Onyx:xbl": {
+        "profiles": [
+            {
+                "profileId": "84a1ec40-2f46-4596-a0f0-ce6f3363c293",
+                "userId": "9a638969-8e79-4721-9b43-cd92e4a2d121",
+                "platformType": "xbl",
+                "idOnPlatform": "2533275011763920",
+                "nameOnPlatform": "Sir Knight Onyx"
+            }
+        ]
+    },
+    "WarOfAegis:xbl": {
+        "profiles": [
+            {
+                "profileId": "517e6c95-13fe-4f54-a64e-217b11c4afe0",
+                "userId": "d8b6d6b8-8066-4cdc-8548-158d45593e7f",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274857063833",
+                "nameOnPlatform": "WarOfAegis"
+            }
+        ]
+    },
+    "xX_Killer34Fr_Xx:psn": {
+        "profiles": [
+            {
+                "profileId": "afdb41ff-196c-4cd0-a1d1-4d6d30e6da97",
+                "userId": "cba5c3c2-4e98-4dc4-8fcf-7796439a2a60",
+                "platformType": "psn",
+                "idOnPlatform": "2661541285235963810",
+                "nameOnPlatform": "xX_Killer34Fr_Xx"
+            }
+        ]
+    },
+    "BigPapaMann:xbl": {
+        "profiles": [
+            {
+                "profileId": "b76727b7-f72a-4567-9963-2aaca32d934b",
+                "userId": "4ae7db99-b409-4263-b338-f25a994ae770",
+                "platformType": "xbl",
+                "idOnPlatform": "2535468835204303",
+                "nameOnPlatform": "BigPapaMann"
+            }
+        ]
+    },
+    "cryser21:psn": {
+        "profiles": [
+            {
+                "profileId": "f857d57e-936b-45c7-9e8a-7bd92077df86",
+                "userId": "ff84915e-4dc7-40a4-ad40-56168ddb0c57",
+                "platformType": "psn",
+                "idOnPlatform": "8000272401434516309",
+                "nameOnPlatform": "cryser21"
+            }
+        ]
+    },
+    "TBS BAN:xbl": {
+        "profiles": [
+            {
+                "profileId": "79c8bf8f-4805-49b0-8ad7-df9acfed0696",
+                "userId": "5c496b87-c31e-4341-a52c-70fbc5423760",
+                "platformType": "xbl",
+                "idOnPlatform": "2535425998562126",
+                "nameOnPlatform": "TBS BAN"
+            }
+        ]
+    },
+    "Warrior017034:xbl": {
+        "profiles": [
+            {
+                "profileId": "523f1aaa-5e1d-4af0-b71b-1dbb2336b7f8",
+                "userId": "d508bff2-a487-4ac2-b5d0-dde84c2461fb",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274929092275",
+                "nameOnPlatform": "Warrior017034"
+            }
+        ]
+    },
+    "Tricker_Q8:psn": {
+        "profiles": [
+            {
+                "profileId": "ad9438a3-b40e-4d82-8c1a-5cc9881263e9",
+                "userId": "a51e336f-565d-4aae-bdb0-b6cd30f9f72a",
+                "platformType": "psn",
+                "idOnPlatform": "5884377432740433355",
+                "nameOnPlatform": "Tricker_Q8"
+            }
+        ]
+    },
+    "Lupsien:psn": {
+        "profiles": [
+            {
+                "profileId": "fdac5229-8eda-4a0c-ae41-9db12d43c37f",
+                "userId": "32bb5fe6-07bb-4f6a-a2b7-0f8f041f298b",
+                "platformType": "psn",
+                "idOnPlatform": "8550169756358656385",
+                "nameOnPlatform": "Lupsien"
+            }
+        ]
+    },
+    "Japsakin army:xbl": {
+        "profiles": [
+            {
+                "profileId": "29a41b3a-7d94-4c0e-a05b-29827d3e5285",
+                "userId": "c765ecea-f3ec-4635-ad57-7496d4db6150",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274948329755",
+                "nameOnPlatform": "Japsakin army"
+            }
+        ]
+    },
+    "CRACKINBOY420:psn": {
+        "profiles": [
+            {
+                "profileId": "7c5b7a84-7d2c-4055-a84e-b4c2d95cca15",
+                "userId": "97ad52cc-0acc-4723-bcaa-7fb4444b33be",
+                "platformType": "psn",
+                "idOnPlatform": "8179950547206045366",
+                "nameOnPlatform": "CRACKINBOY420"
+            }
+        ]
+    },
+    "MIA Demolition:xbl": {
+        "profiles": [
+            {
+                "profileId": "f9516c4e-f281-400f-b7ee-13a1a38c5196",
+                "userId": "17c0550c-f4d4-4e75-9b8d-39717e15df5a",
+                "platformType": "xbl",
+                "idOnPlatform": "2535412516630093",
+                "nameOnPlatform": "MIA Demolition"
+            }
+        ]
+    },
+    "Born_Samurai786:psn": {
+        "profiles": [
+            {
+                "profileId": "5ae318a1-ab02-49fb-8371-47bc61ecddc8",
+                "userId": "26a336b0-44bd-41ce-8849-73d4f0eb47ae",
+                "platformType": "psn",
+                "idOnPlatform": "5062553360462454344",
+                "nameOnPlatform": "Born_Samurai786"
+            }
+        ]
+    },
+    "NapalmTheClown:psn": {
+        "profiles": [
+            {
+                "profileId": "11eba9f4-5da4-402c-ab7f-31ac02df8385",
+                "userId": "048e8d3a-aea4-4737-a568-30aa4185260e",
+                "platformType": "psn",
+                "idOnPlatform": "4468280690432406051",
+                "nameOnPlatform": "NapalmTheClown"
+            }
+        ]
+    },
+    "TTVill_Legit1240:psn": {
+        "profiles": [
+            {
+                "profileId": "8c292c5b-6eec-4eab-a971-da9ce7f847af",
+                "userId": "4e4bd134-10da-4ed8-8365-f2789f009088",
+                "platformType": "psn",
+                "idOnPlatform": "8960290847651421012",
+                "nameOnPlatform": "TTVill_Legit1240"
+            }
+        ]
+    },
+    "cast79_spawn:psn": {
+        "profiles": [
+            {
+                "profileId": "ebc2583e-94c7-4c1b-b3b8-9a07b929c9e0",
+                "userId": "369aea68-2ee7-40ee-8f2b-021503fa18d3",
+                "platformType": "psn",
+                "idOnPlatform": "4083062952172637315",
+                "nameOnPlatform": "cast79_spawn"
+            }
+        ]
+    },
+    "Forever100Proof:psn": {
+        "profiles": [
+            {
+                "profileId": "a51568fc-b851-4f89-9743-bdbadbb48a53",
+                "userId": "9ab980bd-246a-4e24-accc-f1be8002dcd4",
+                "platformType": "psn",
+                "idOnPlatform": "5741621654782814934",
+                "nameOnPlatform": "Forever100Proof"
+            }
+        ]
+    },
+    "CengoH:psn": {
+        "profiles": [
+            {
+                "profileId": "de45d1ed-420f-4904-9fe9-9258c09b470c",
+                "userId": "35cf6711-a744-4dd1-a74a-b1d59f4ce87d",
+                "platformType": "psn",
+                "idOnPlatform": "5871315082770147401",
+                "nameOnPlatform": "CengoH"
+            }
+        ]
+    },
+    "jawbreakr73:psn": {
+        "profiles": [
+            {
+                "profileId": "91307fe6-14e3-4a88-91ba-ce5f14bbfaca",
+                "userId": "520e1ff0-a9fb-47a2-aa2f-7771ee7945e9",
+                "platformType": "psn",
+                "idOnPlatform": "2054188884832811431",
+                "nameOnPlatform": "jawbreakr73"
+            }
+        ]
+    },
+    "SmartCentaur90:xbl": {
+        "profiles": [
+            {
+                "profileId": "5715f108-04a4-418f-aa75-489dab3f199b",
+                "userId": "5aa2f636-def3-431c-9d84-2470d2177160",
+                "platformType": "xbl",
+                "idOnPlatform": "2535437697799421",
+                "nameOnPlatform": "SmartCentaur90"
+            }
+        ]
+    },
+    "RynRyz:psn": {
+        "profiles": [
+            {
+                "profileId": "ecd30c8f-de1b-4f39-95eb-631838b16bd2",
+                "userId": "5e554a25-8048-4db3-94d0-2e2d032fb5cf",
+                "platformType": "psn",
+                "idOnPlatform": "199779963996587194",
+                "nameOnPlatform": "RynRyz"
+            }
+        ]
+    },
+    "vIHGYT:xbl": {
+        "profiles": [
+            {
+                "profileId": "751f3319-2461-4954-a073-429a5e101fb1",
+                "userId": "d7f8159e-6b7d-4f11-b1d8-8f0ffe4cfc29",
+                "platformType": "xbl",
+                "idOnPlatform": "2535426899473286",
+                "nameOnPlatform": "vIHGYT"
+            }
+        ]
+    },
+    "Mr J R1pper:xbl": {
+        "profiles": [
+            {
+                "profileId": "6ea1293e-5c98-4b08-ac07-0137d732d1e2",
+                "userId": "ab69d004-724d-4ee8-81ad-1b644fc57e22",
+                "platformType": "xbl",
+                "idOnPlatform": "2535462496922176",
+                "nameOnPlatform": "Mr J R1pper"
+            }
+        ]
+    },
+    "HyperStatiX_666_:psn": {
+        "profiles": [
+            {
+                "profileId": "9b4c132c-32e8-4c00-b2a3-80735c89c81f",
+                "userId": "b7823c81-c433-472b-9a90-247ec00dcefe",
+                "platformType": "psn",
+                "idOnPlatform": "8171380702409829567",
+                "nameOnPlatform": "HyperStatiX_666_"
+            }
+        ]
+    },
+    "SmokenHotRep420:xbl": {
+        "profiles": [
+            {
+                "profileId": "120519ff-6465-4220-ad89-9e41ba271a80",
+                "userId": "cc046083-4056-40e8-a24a-c3ac0a0da98d",
+                "platformType": "xbl",
+                "idOnPlatform": "2533275007779632",
+                "nameOnPlatform": "SmokenHotRep420"
+            }
+        ]
+    },
+    "ImayBeBad:psn": {
+        "profiles": [
+            {
+                "profileId": "623cdd6a-f122-4200-9c35-3093584d4097",
+                "userId": "022a097e-d064-43e6-bd68-f63a3f5b80ca",
+                "platformType": "psn",
+                "idOnPlatform": "1471679659114907419",
+                "nameOnPlatform": "ImayBeBad"
+            }
+        ]
+    },
+    "Sockeett:xbl": {
+        "profiles": [
+            {
+                "profileId": "7909ec17-b822-4e8d-aa0d-e84882c92378",
+                "userId": "99952b08-921c-4cc1-9512-a3f8f8be364e",
+                "platformType": "xbl",
+                "idOnPlatform": "2535411742478936",
+                "nameOnPlatform": "Sockeett"
+            },
+            {
+                "profileId": "3817167c-b45a-48f6-8f5f-7db2580644ac",
+                "userId": "59838251-4a05-4ad0-bf04-4a5dd90ca43f",
+                "platformType": "xbl",
+                "idOnPlatform": "2535452549731163",
+                "nameOnPlatform": "Sockeett"
+            }
+        ]
+    },
+    "WM5n:xbl": {
+        "profiles": [
+            {
+                "profileId": "900fd59e-d3ff-4977-a1e1-7fc5373bb47d",
+                "userId": "e94f1fd7-fe45-4ca0-a59d-ad44ec9416a2",
+                "platformType": "xbl",
+                "idOnPlatform": "2533275031352068",
+                "nameOnPlatform": "WM5n"
+            }
+        ]
+    },
+    "jiujitsu_bandit:psn": {
+        "profiles": [
+            {
+                "profileId": "c759b6c9-f675-46bd-be88-e3d58dc7c29d",
+                "userId": "5c337d89-e576-4978-9e22-f5b399d6f74c",
+                "platformType": "psn",
+                "idOnPlatform": "2723479251382528933",
+                "nameOnPlatform": "jiujitsu_bandit"
+            }
+        ]
+    },
+    "THORDANEMASSEY:psn": {
+        "profiles": [
+            {
+                "profileId": "d92c564f-1297-4c86-864f-1e02f8e239d6",
+                "userId": "63e7970f-633d-4ce7-8c9f-5127d9554d33",
+                "platformType": "psn",
+                "idOnPlatform": "6358775799086161707",
+                "nameOnPlatform": "THORDANEMASSEY"
+            }
+        ]
+    },
+    "Jarl Brennus:xbl": {
+        "profiles": [
+            {
+                "profileId": "3408e6bb-09f6-4023-bd11-e0fb9374717e",
+                "userId": "ea869bf7-5533-4886-afe3-6241e9e93e20",
+                "platformType": "xbl",
+                "idOnPlatform": "2535467915292347",
+                "nameOnPlatform": "Jarl Brennus"
+            }
+        ]
+    },
+    "McLovin94X:psn": {
+        "profiles": [
+            {
+                "profileId": "17d02db6-a9f9-4c6c-8bd6-d993ada694c5",
+                "userId": "0c85ba2f-38e9-4db8-96f9-386ac2c6105f",
+                "platformType": "psn",
+                "idOnPlatform": "215090439381059291",
+                "nameOnPlatform": "McLovin94X"
+            }
+        ]
+    },
+    "W1CK3D-V3ND3TTA:psn": {
+        "profiles": [
+            {
+                "profileId": "4ab5cf50-4b47-4ac1-8dfe-5586b4068d79",
+                "userId": "53757106-3306-49b8-ba90-fbcde6110a16",
+                "platformType": "psn",
+                "idOnPlatform": "877126074796236239",
+                "nameOnPlatform": "W1CK3D-V3ND3TTA"
+            }
+        ]
+    },
+    "SanguineRose650:psn": {
+        "profiles": [
+            {
+                "profileId": "4134c694-6e1a-4964-a60d-f2336cfa9309",
+                "userId": "480524a6-783d-4272-9ad1-ca0cd60d70bc",
+                "platformType": "psn",
+                "idOnPlatform": "4673716641867970153",
+                "nameOnPlatform": "SanguineRose650"
+            }
+        ]
+    },
+    "JACKIECHAN1030:psn": {
+        "profiles": [
+            {
+                "profileId": "822c3c51-6928-43f3-b25b-3ba98b9f7ad2",
+                "userId": "1732f677-3d4d-4c85-ad8e-6ea6f89895c3",
+                "platformType": "psn",
+                "idOnPlatform": "5390934489481938642",
+                "nameOnPlatform": "JACKIECHAN1030"
+            }
+        ]
+    },
+    "KuraiAmatsu:psn": {
+        "profiles": [
+            {
+                "profileId": "237228fa-60e3-4540-b0fc-101ade220c2e",
+                "userId": "ff04b180-b2d6-4f37-92fd-e6372c13fcbd",
+                "platformType": "psn",
+                "idOnPlatform": "3162957526583791178",
+                "nameOnPlatform": "KuraiAmatsu"
+            }
+        ]
+    },
+    "Ma714rc:psn": {
+        "profiles": [
+            {
+                "profileId": "db1c1424-e909-4d9a-80cd-0e92194abdbc",
+                "userId": "c8dbc1b3-db9f-4e89-8c6e-cc6313881395",
+                "platformType": "psn",
+                "idOnPlatform": "4656843151450913067",
+                "nameOnPlatform": "Ma714rc"
+            }
+        ]
+    },
+    "Chef_Gordy:psn": {
+        "profiles": [
+            {
+                "profileId": "a1725d87-e1a9-4528-90ad-1218794c8f72",
+                "userId": "25d3852d-c5e7-424a-b772-3734a2c33d3d",
+                "platformType": "psn",
+                "idOnPlatform": "4986877971749735337",
+                "nameOnPlatform": "Chef_Gordy"
+            }
+        ]
+    },
+    "Arwe07:psn": {
+        "profiles": [
+            {
+                "profileId": "2274603d-507b-4530-8e38-263d00a62eeb",
+                "userId": "d60ac69f-bf5c-4d96-9f8a-e8d5052cccd3",
+                "platformType": "psn",
+                "idOnPlatform": "8433759104840885267",
+                "nameOnPlatform": "Arwe07"
+            }
+        ]
+    },
+    "MMnnMmmnNm:xbl": {
+        "profiles": [
+            {
+                "profileId": "7e754f2a-114e-40be-8dc7-68559d9b0659",
+                "userId": "a6834bf0-8e2a-46a0-b862-d924662eb967",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274991871929",
+                "nameOnPlatform": "MMnnMmmnNm"
+            }
+        ]
+    },
+    "fearsomelukas:xbl": {
+        "profiles": [
+            {
+                "profileId": "5acc71fd-5372-4ecc-8a3e-8934aff60dd5",
+                "userId": "a3cc230f-592c-40f7-927d-7d9c34681541",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274891824292",
+                "nameOnPlatform": "fearsomelukas"
+            }
+        ]
+    },
+    "RsK_Nitro:psn": {
+        "profiles": [
+            {
+                "profileId": "2afb598b-4cce-4053-a10f-a34d545f30ae",
+                "userId": "ab10e46f-e9be-448b-8ca8-2c8873e8d923",
+                "platformType": "psn",
+                "idOnPlatform": "1848723872925952997",
+                "nameOnPlatform": "RsK_Nitro"
+            }
+        ]
+    },
+    "roo_sevelt:psn": {
+        "profiles": [
+            {
+                "profileId": "1611aaca-471d-485f-9ce4-f8bf895f9939",
+                "userId": "8eab7fc2-d47b-46da-add6-686c64f30714",
+                "platformType": "psn",
+                "idOnPlatform": "7514831935491681384",
+                "nameOnPlatform": "roo_sevelt"
+            }
+        ]
+    },
+    "SFxPLAYAx415:xbl": {
+        "profiles": [
+            {
+                "profileId": "10d91a2e-8d7b-4184-ba7e-1af11ee462eb",
+                "userId": "b156d6c4-b23c-4028-85f1-dd5baa5c5e70",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274861028119",
+                "nameOnPlatform": "SFxPLAYAx415"
+            }
+        ]
+    },
+    "BTK-47:psn": {
+        "profiles": [
+            {
+                "profileId": "0d14c666-9cbd-445d-9391-b7f55f648538",
+                "userId": "1635ab14-1c7d-4973-97ad-82cbae9485b8",
+                "platformType": "psn",
+                "idOnPlatform": "2884294190788440240",
+                "nameOnPlatform": "BTK-47"
+            }
+        ]
+    },
+    "ZombieClan_:psn": {
+        "profiles": [
+            {
+                "profileId": "5b36f857-c078-4f80-b32f-deb0b428dbb4",
+                "userId": "b1e8a4c4-bc4f-4031-8e89-a6bbda5822e0",
+                "platformType": "psn",
+                "idOnPlatform": "6906577678270462851",
+                "nameOnPlatform": "ZombieClan_"
+            }
+        ]
+    },
+    "ConnerJ:xbl": {
+        "profiles": [
+            {
+                "profileId": "73be6b23-b6ce-460e-8589-1262aa83fc39",
+                "userId": "882a17e9-4ead-4bec-8ac8-7efdc2970515",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274900430581",
+                "nameOnPlatform": "ConnerJ"
+            }
+        ]
+    },
+    "Khornes Cob:xbl": {
+        "profiles": [
+            {
+                "profileId": "f7d67c7f-3c54-411f-ba90-a837e75b73d5",
+                "userId": "42e4a565-fd60-46e4-bbe6-83762a242a0f",
+                "platformType": "xbl",
+                "idOnPlatform": "2535445338675901",
+                "nameOnPlatform": "Khornes Cob"
+            }
+        ]
+    },
+    "Now Vile:xbl": {
+        "profiles": [
+            {
+                "profileId": "6151bba8-5940-4b21-aa4e-0d729d32880b",
+                "userId": "be9e2b8d-5b3f-4e7c-b2c1-377e14ccfec5",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274910191110",
+                "nameOnPlatform": "Now Vile"
+            }
+        ]
+    },
+    "CodeAres:psn": {
+        "profiles": [
+            {
+                "profileId": "917f0ce1-330e-494d-9247-715e985f637d",
+                "userId": "1721a9f4-4ca2-4751-accc-55e2dd5d011b",
+                "platformType": "psn",
+                "idOnPlatform": "8937722316111438672",
+                "nameOnPlatform": "CodeAres"
+            }
+        ]
+    },
+    "Jus2Con-Combre-_:psn": {
+        "profiles": [
+            {
+                "profileId": "b7f4af7e-eb06-4203-ad2f-479b680ef569",
+                "userId": "c6d5acaa-72b1-4936-8877-bad48aaf5e86",
+                "platformType": "psn",
+                "idOnPlatform": "8551968098127067108",
+                "nameOnPlatform": "Jus2Con-Combre-_"
+            }
+        ]
+    },
+    "Phreiia:xbl": {
+        "profiles": [
+            {
+                "profileId": "982bb528-2db7-4073-bc67-fa6d2b179c06",
+                "userId": "f368771f-2466-44f5-b45b-cf3a2b220a9e",
+                "platformType": "xbl",
+                "idOnPlatform": "2535410917995449",
+                "nameOnPlatform": "Phreiia"
+            }
+        ]
+    },
+    "Chicogico:xbl": {
+        "profiles": [
+            {
+                "profileId": "1dada8d3-f2a7-42d3-8fa7-1c305ecd3637",
+                "userId": "1875ef7d-31d0-426d-b3ef-73c6729fdbaf",
+                "platformType": "xbl",
+                "idOnPlatform": "2535426357931553",
+                "nameOnPlatform": "Chicogico"
+            }
+        ]
+    },
+    "JUSTICE-_-H:psn": {
+        "profiles": [
+            {
+                "profileId": "bc607b13-5d25-4e48-aa3a-eadc2f66a053",
+                "userId": "1f89a94e-5827-47c1-bbf9-f83231f91a9b",
+                "platformType": "psn",
+                "idOnPlatform": "8662833527048868338",
+                "nameOnPlatform": "JUSTICE-_-H"
+            }
+        ]
+    },
+    "Lord F00F:xbl": {
+        "profiles": [
+            {
+                "profileId": "7bbb8f86-1ca5-42ef-ba1b-163030456d3e",
+                "userId": "8e4a05d7-5721-4392-9781-31d784188eee",
+                "platformType": "xbl",
+                "idOnPlatform": "2535420796925069",
+                "nameOnPlatform": "Lord F00F"
+            }
+        ]
+    },
+    "AK-AAM:psn": {
+        "profiles": [
+            {
+                "profileId": "4b9160ab-e2c5-4489-9b26-a78fa919fe2d",
+                "userId": "85a8f842-2daf-4281-814e-2b256b987e8e",
+                "platformType": "psn",
+                "idOnPlatform": "892415411566869229",
+                "nameOnPlatform": "AK-AAM"
+            }
+        ]
+    },
+    "SausageMan0000:xbl": {
+        "profiles": [
+            {
+                "profileId": "003772e3-6e09-422c-a076-669915db3c25",
+                "userId": "674f4725-7961-4d5b-b03d-ce1068d4bd4f",
+                "platformType": "xbl",
+                "idOnPlatform": "2535453212509422",
+                "nameOnPlatform": "SausageMan0000"
+            }
+        ]
+    },
+    "Vz Mystics:xbl": {
+        "profiles": [
+            {
+                "profileId": "f93cfb80-b557-4c6e-a069-45e01d3bd6e2",
+                "userId": "c2f0743a-02ca-4bda-a5d6-9aee5be5400a",
+                "platformType": "xbl",
+                "idOnPlatform": "2535421869475826",
+                "nameOnPlatform": "Vz Mystics"
+            }
+        ]
+    },
+    "banksygraffiti:psn": {
+        "profiles": [
+            {
+                "profileId": "1cc48dc8-8504-4ce0-b3c0-4d47b0b13999",
+                "userId": "2fdc049d-8525-41aa-829e-4f4f5a9176e1",
+                "platformType": "psn",
+                "idOnPlatform": "3868192509242516899",
+                "nameOnPlatform": "banksygraffiti"
+            }
+        ]
+    },
+    "TheNorseGooter:psn": {
+        "profiles": [
+            {
+                "profileId": "89bac678-db9b-48d1-9752-557964d71856",
+                "userId": "8498677e-be14-4287-90d7-5af5bf3aa245",
+                "platformType": "psn",
+                "idOnPlatform": "4748843829243354931",
+                "nameOnPlatform": "TheNorseGooter"
+            }
+        ]
+    },
+    "Bliice-tk:psn": {
+        "profiles": [
+            {
+                "profileId": "0514508d-8331-4b09-947d-43a062987e9f",
+                "userId": "dfb86d31-427f-4579-8ef0-7b44473b61ad",
+                "platformType": "psn",
+                "idOnPlatform": "857431896228789884",
+                "nameOnPlatform": "Bliice-tk"
+            }
+        ]
+    },
+    "ISliceForFun:xbl": {
+        "profiles": [
+            {
+                "profileId": "a5f40d21-3759-4dd0-89fe-92e5e7e958c3",
+                "userId": "dad5c923-a2a6-4332-ba52-5a982b7a6479",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274889292445",
+                "nameOnPlatform": "ISliceForFun"
+            }
+        ]
+    },
+    "Goodgirl_quiet26:psn": {
+        "profiles": [
+            {
+                "profileId": "3271be60-86d2-4199-8e65-32fbc247fbe3",
+                "userId": "edea9dfb-c985-4fab-afc0-54828c45bbd7",
+                "platformType": "psn",
+                "idOnPlatform": "6635742311193220196",
+                "nameOnPlatform": "Goodgirl_quiet26"
+            }
+        ]
+    },
+    "ILordKaseen:xbl": {
+        "profiles": [
+            {
+                "profileId": "f66c6f1e-3730-4295-9a36-a361fd318fc8",
+                "userId": "9b3a4ea0-cc7a-4402-997d-2a38afd235c8",
+                "platformType": "xbl",
+                "idOnPlatform": "2535409364418897",
+                "nameOnPlatform": "ILordKaseen"
+            }
+        ]
+    },
+    "Bort7450:xbl": {
+        "profiles": [
+            {
+                "profileId": "d3a60f8f-21d5-4eda-bc37-932420e29612",
+                "userId": "3300d191-6c6d-42eb-a8aa-f6a75907fc0d",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274989682819",
+                "nameOnPlatform": "Bort7450"
+            }
+        ]
+    },
+    "Whoolie2015:psn": {
+        "profiles": [
+            {
+                "profileId": "fa6f9627-82b7-4e36-8928-21519dd58940",
+                "userId": "f9997eed-dfab-49ce-8324-f5b9491ef921",
+                "platformType": "psn",
+                "idOnPlatform": "3509219474902208784",
+                "nameOnPlatform": "Whoolie2015"
+            }
+        ]
+    },
+    "yeah07007:psn": {
+        "profiles": [
+            {
+                "profileId": "9ec79c12-16ee-4038-8834-1230d98e7cdd",
+                "userId": "2083c923-ce05-4222-9899-6374d3c24dee",
+                "platformType": "psn",
+                "idOnPlatform": "7934599213021797881",
+                "nameOnPlatform": "yeah07007"
+            }
+        ]
+    },
+    "coco fir3:xbl": {
+        "profiles": [
+            {
+                "profileId": "790bd1df-01d4-4b87-9d58-79ebae4d249b",
+                "userId": "ed46cc03-1576-4fcc-b993-02540de2510d",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274918331184",
+                "nameOnPlatform": "coco fir3"
+            }
+        ]
+    },
+    "anaksemuabangsa:psn": {
+        "profiles": [
+            {
+                "profileId": "0dda8cd6-0456-46e4-9da1-f02c49558021",
+                "userId": "8a78de45-4832-43a6-b51b-6aaa152d7d09",
+                "platformType": "psn",
+                "idOnPlatform": "9120899018166282671",
+                "nameOnPlatform": "anaksemuabangsa"
+            }
+        ]
+    },
+    "Yamatchi0927:psn": {
+        "profiles": [
+            {
+                "profileId": "9cd94eac-e788-43fd-a8ab-51862667dbcf",
+                "userId": "0ac9c330-2b2a-4404-88b7-4abf102a7742",
+                "platformType": "psn",
+                "idOnPlatform": "3348158842751641828",
+                "nameOnPlatform": "Yamatchi0927"
+            }
+        ]
+    },
+    "beGon Zero:xbl": {
+        "profiles": [
+            {
+                "profileId": "c4d7aae4-4071-46c4-aae1-43f64493f886",
+                "userId": "73e1d8e6-3c76-4027-ae92-c5c6f37303a5",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274858297716",
+                "nameOnPlatform": "beGon Zero"
+            }
+        ]
+    },
+    "David I de RD:xbl": {
+        "profiles": [
+            {
+                "profileId": "e1b4629c-2abb-45b9-820d-e0c95def4925",
+                "userId": "ba9b55cf-c76f-45c7-8329-692969192415",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274828051356",
+                "nameOnPlatform": "David I de RD"
+            }
+        ]
+    },
+    "DjBoris_Reborn:psn": {
+        "profiles": [
+            {
+                "profileId": "3d0605dd-2a4b-4984-850d-a38f43d0453a",
+                "userId": "f94aa318-1482-4c85-ade8-197c8efefcd7",
+                "platformType": "psn",
+                "idOnPlatform": "2816130459520643626",
+                "nameOnPlatform": "DjBoris_Reborn"
+            }
+        ]
+    },
+    "hyper nova air:xbl": {
+        "profiles": [
+            {
+                "profileId": "9607a9ed-0542-4133-b4e3-0aa11a70db1d",
+                "userId": "6d936274-8a07-4776-be51-bfa541c9d63b",
+                "platformType": "xbl",
+                "idOnPlatform": "2535431603293549",
+                "nameOnPlatform": "hyper nova air"
+            }
+        ]
+    },
+    "EL1T3 S0LDIER:xbl": {
+        "profiles": [
+            {
+                "profileId": "46c4343e-ae71-4c6a-aa9e-37621f3d82f9",
+                "userId": "fb1d2a47-71db-4807-b71a-359457aeacf7",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274857897399",
+                "nameOnPlatform": "EL1T3 S0LDIER"
+            }
+        ]
+    },
+    "princesnowflake:psn": {
+        "profiles": [
+            {
+                "profileId": "d37c7a51-8b14-44d5-a382-4b93fbf5d2e8",
+                "userId": "07fff740-541a-4e29-bfb1-d7319b721ac1",
+                "platformType": "psn",
+                "idOnPlatform": "4138660965293045193",
+                "nameOnPlatform": "princesnowflake"
+            }
+        ]
+    },
+    "RexKnight666:xbl": {
+        "profiles": [
+            {
+                "profileId": "2130439b-96ef-438d-b88b-46218ba86f25",
+                "userId": "a3e9d3f8-0d6a-46e7-b66a-b205483c7bf0",
+                "platformType": "xbl",
+                "idOnPlatform": "2535449957412407",
+                "nameOnPlatform": "RexKnight666"
+            }
+        ]
+    },
+    "Cidetto:xbl": {
+        "profiles": [
+            {
+                "profileId": "51cdb7f4-d7ba-4539-9337-9c2ec336c63e",
+                "userId": "4a9b06c1-5021-492d-aba7-ef825c3e9c0c",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274981695315",
+                "nameOnPlatform": "Cidetto"
+            }
+        ]
+    },
+    "Bacchus-18:psn": {
+        "profiles": [
+            {
+                "profileId": "13d0eea8-ac87-4477-abf1-cd32c4e20eba",
+                "userId": "c643764d-4639-4e27-9d21-31a748a71d44",
+                "platformType": "psn",
+                "idOnPlatform": "8284812352490016426",
+                "nameOnPlatform": "Bacchus-18"
+            }
+        ]
+    },
+    "Eye of Hatred:xbl": {
+        "profiles": [
+            {
+                "profileId": "2ec81d0e-f3d8-478d-b50c-b63885501d90",
+                "userId": "dc032a10-3e88-435b-99c5-dd2d8567aed1",
+                "platformType": "xbl",
+                "idOnPlatform": "2535414174445139",
+                "nameOnPlatform": "Eye of Hatred"
+            }
+        ]
+    },
+    "xKingSmok3yx:xbl": {
+        "profiles": [
+            {
+                "profileId": "03eb337d-1488-43a5-b12a-7d6185356166",
+                "userId": "687788ab-f309-4294-bdc1-ba61b588d8f1",
+                "platformType": "xbl",
+                "idOnPlatform": "2535406019562403",
+                "nameOnPlatform": "xKingSmok3yx"
+            }
+        ]
+    },
+    "LatinoHeatWave:psn": {
+        "profiles": [
+            {
+                "profileId": "051461bb-1885-46e2-b05d-4fbea154de93",
+                "userId": "7237eb2d-7670-4b63-ab0e-d3d0c90df3fa",
+                "platformType": "psn",
+                "idOnPlatform": "570888935096813348",
+                "nameOnPlatform": "LatinoHeatWave"
+            }
+        ]
+    },
+    "Brathir:psn": {
+        "profiles": [
+            {
+                "profileId": "c7ff9af6-c4c7-4344-baaa-958e28503cb7",
+                "userId": "947df10d-4309-409c-a0b0-a5bd0bee1108",
+                "platformType": "psn",
+                "idOnPlatform": "9049663499637844823",
+                "nameOnPlatform": "Brathir"
+            }
+        ]
+    },
+    "bonefat21:xbl": {
+        "profiles": [
+            {
+                "profileId": "dcda69f6-ce92-433f-9b7b-d5dfe0511e7a",
+                "userId": "a40a1e63-6b9e-461c-9a26-e0bd4907245d",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274887901021",
+                "nameOnPlatform": "bonefat21"
+            }
+        ]
+    },
+    "Mike22Cage:psn": {
+        "profiles": [
+            {
+                "profileId": "ca3a1e0e-2cc7-4937-a70e-94084f07472d",
+                "userId": "090610de-b34d-4b49-89f1-293af7b98fd3",
+                "platformType": "psn",
+                "idOnPlatform": "2861003316850685603",
+                "nameOnPlatform": "Mike22Cage"
+            }
+        ]
+    },
+    "WuTanglement:xbl": {
+        "profiles": [
+            {
+                "profileId": "552969e1-3fc0-4d2e-a3b1-50151c6a53fc",
+                "userId": "c52d9fc9-5dfb-40d7-ae86-38cb721d72c3",
+                "platformType": "xbl",
+                "idOnPlatform": "2533274809772684",
+                "nameOnPlatform": "WuTanglement"
+            }
+        ]
+    },
+    "Insane1rish:psn": {
+        "profiles": [
+            {
+                "profileId": "db225669-c5c3-456f-a9a1-c35aa3276a81",
+                "userId": "306daf17-8be3-458f-b922-007006e4db07",
+                "platformType": "psn",
+                "idOnPlatform": "706397649393084007",
+                "nameOnPlatform": "Insane1rish"
+            }
+        ]
+    },
+    "batzstark:psn": {
+        "profiles": [
+            {
+                "profileId": "5536968e-25ba-4c3c-b275-5921612f7636",
+                "userId": "86c45502-1333-4532-892f-6cce08045ae8",
+                "platformType": "psn",
+                "idOnPlatform": "6020603513474760116",
+                "nameOnPlatform": "batzstark"
+            }
+        ]
+    },
+    "BeaudontTrip:xbl": {
+        "profiles": [
+            {
+                "profileId": "c229f1e3-6e25-416f-bc8e-bad0a21e8728",
+                "userId": "7712dcea-a93d-43b9-9a6d-83632d87b2d3",
+                "platformType": "xbl",
+                "idOnPlatform": "2535417372507467",
+                "nameOnPlatform": "BeaudontTrip"
+            }
+        ]
+    },
+    "WolfFades:psn": {
+        "profiles": [
+            {
+                "profileId": "c81dcccb-b38a-49cf-a3f8-38c7bc70ec59",
+                "userId": "946564ee-d754-42f7-9a06-6b1e8b2d21d7",
+                "platformType": "psn",
+                "idOnPlatform": "3581396287556262960",
+                "nameOnPlatform": "WolfFades"
+            }
+        ]
+    },
+    "Hervie1:psn": {
+        "profiles": [
+            {
+                "profileId": "666b2009-00ec-4caf-87fd-aa808589a787",
+                "userId": "ae463518-0c50-4779-8b29-c25145e2eb1e",
+                "platformType": "psn",
+                "idOnPlatform": "1293234758704622345",
+                "nameOnPlatform": "Hervie1"
+            }
+        ]
+    },
+    "SovieUwUnion:xbl": {
+        "profiles": [
+            {
+                "profileId": "ef01f5cd-159e-4a9f-9a0a-6e09414fee36",
+                "userId": "6c0611d2-b929-40ba-933b-0cefb63cef9d",
+                "platformType": "xbl",
+                "idOnPlatform": "2535423412168413",
+                "nameOnPlatform": "SovieUwUnion"
+            }
+        ]
+    },
+    "jonx700:psn": {
+        "profiles": [
+            {
+                "profileId": "339a5765-d009-47d5-9657-5fc7136da67c",
+                "userId": "1d1ded2a-b185-48ce-bfff-ef469be1a97f",
+                "platformType": "psn",
+                "idOnPlatform": "5728825238992074967",
+                "nameOnPlatform": "jonx700"
+            }
+        ]
+    },
+    "Imtrash81:psn": {
+        "profiles": [
+            {
+                "profileId": "e87fc2a9-d49c-4656-ab37-90f2193afc26",
+                "userId": "94668d28-d328-4daf-b10f-0bf0a780cf99",
+                "platformType": "psn",
+                "idOnPlatform": "1915877073570400298",
+                "nameOnPlatform": "Imtrash81"
+            }
+        ]
+    },
+    "InnSlayved:xbl": {
+        "profiles": [
+            {
+                "profileId": "cb1422d0-750f-44d7-8aa1-322cbe4cfc4a",
+                "userId": "d0080d6c-dbcb-461e-84a1-4a029c617f8c",
+                "platformType": "xbl",
+                "idOnPlatform": "2535463937529242",
+                "nameOnPlatform": "InnSlayved"
+            }
+        ]
     }
 }

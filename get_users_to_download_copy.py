@@ -43,18 +43,9 @@ def get_users_to_download(all_users_path = r"C:\Users\Jack Bowman\Documents\Prog
     current_users = json.load(file)
     file.close()
 
-    users_to_get = {
-        "uplay" : [],
-        "psn"   : [],
-        "xbl"   : []
-    }
+    users_to_get = []
     for player_string in all_users_dict:
         if player_string not in failed_users_dict and player_string not in current_users:
-            user = player_string.split(":")
-            users_to_get[user[1]].append(user[0])
+            users_to_get.append(player_string)  
 
-    
     return users_to_get
-
-all = get_users_to_download()
-
