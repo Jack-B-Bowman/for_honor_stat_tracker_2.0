@@ -26,7 +26,7 @@ for platform in users_to_download:
     for usernames in chunker(users_to_download[platform],CHUNK_SIZE):
         account_index = count % len(accounts)
         acc = accounts[account_index]
-        data = get_response.json()["profiles"]
+        data = ""
         for player in data:
             player_string = player["nameOnPlatform"] + ":" + player["platformType"]
             player_ids[player_string] = player
